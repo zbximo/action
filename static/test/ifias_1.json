@@ -1,0 +1,3296 @@
+{
+  "ts": {
+    "teacher": [
+      {
+        "state": "stand",
+        "writing": "speaking"
+      },
+      {
+        "state": "sit",
+        "writing": "writing"
+      }
+    ],
+    "student": [
+      0.6,
+      0.7,
+      0.8
+    ],
+    "walk": false
+  },
+  "id": "60954",
+  "course_id": "5820",
+  "sub_id": "1036819",
+  "trans_contenten": "",
+  "trans_content": [
+    {
+      "BeginSec": 1,
+      "Text": "你再讲段时间好。",
+      "TransText": "You can talk about it for a while.",
+      "EndSec": 11
+    },
+    {
+      "BeginSec": 11,
+      "Text": "知道了。",
+      "TransText": "Got it.",
+      "EndSec": 44
+    },
+    {
+      "BeginSec": 44,
+      "Text": "一天到了吧。",
+      "TransText": "One day has arrived.",
+      "EndSec": 49
+    },
+    {
+      "BeginSec": 49,
+      "Text": "都签好了对吧？",
+      "TransText": "It's all signed, isn't it?",
+      "EndSec": 52
+    },
+    {
+      "BeginSec": 52,
+      "Text": "签好了，我们就关掉了。",
+      "TransText": "Sign it, and we shut it down.",
+      "EndSec": 85
+    },
+    {
+      "BeginSec": 85,
+      "Text": "用月底时请拔下接收器，以免丢失。",
+      "TransText": "Please unplug the receiver at the end of the month to avoid losing it.",
+      "EndSec": 101
+    },
+    {
+      "BeginSec": 101,
+      "Text": "下这个应该是讲到，就是政府的一个是GU为什么要干旅游发展，然后讲了政府概率呃流发展的两个方面。",
+      "TransText": "This should be about,One of the government's reasons is why GU wants to do tourism development.Then it talks about two aspects of the development of government probability er flow.",
+      "EndSec": 105
+    },
+    {
+      "BeginSec": 105,
+      "Text": "第一个是呃供给侧干预，第二个是需求的感染。",
+      "TransText": "The first is, uh, supply-side intervention, and the second is infection of demand.",
+      "EndSec": 139
+    },
+    {
+      "BeginSec": 139,
+      "Text": "但需求侧调控的，刚才在上在上一课中，我们应该是已经讲过了，对吧？",
+      "TransText": "But demand-side regulation, just in the last lesson,We should have already talked about it, right?",
+      "EndSec": 147
+    },
+    {
+      "BeginSec": 147,
+      "Text": "在这上一个装修的调控应该讲过了，对不对？",
+      "TransText": "The regulation of the last decoration should have been mentioned here, right?",
+      "EndSec": 152
+    },
+    {
+      "BeginSec": 152,
+      "Text": "对我这呃我记得我们应是从那个攻景色开始讲了。",
+      "TransText": "For me, uh, I remember we should have started with the attack scenery.",
+      "EndSec": 167
+    },
+    {
+      "BeginSec": 167,
+      "Text": "就是在我们还接着上节课的讲，三节课主要是讲了需求侧的调控。",
+      "TransText": "Even after we followed the last lesson, the three lessons mainly talked about demand-side regulation.",
+      "EndSec": 172
+    },
+    {
+      "BeginSec": 172,
+      "Text": "那么这节课呢我们开始讲这个政府从供给侧调控啊流发展。",
+      "TransText": "So this lesson we start talking about this government from the supply side regulation ah flow development.",
+      "EndSec": 176
+    },
+    {
+      "BeginSec": 176,
+      "Text": "那在供给侧方面呢，就是加工这个留影。",
+      "TransText": "What about on the supply side?Is to process this photo.",
+      "EndSec": 184
+    },
+    {
+      "BeginSec": 184,
+      "Text": "呃，柳影响供给方面呢，留力的政府呢通常采用的手段主要是包括五个方面。",
+      "TransText": "Uh,What about Liu's influence on the supply side,The usual means used by a government that remains strong are mainly five aspects.",
+      "EndSec": 186
+    },
+    {
+      "BeginSec": 186,
+      "Text": "第一个呢就是控制土地的用途。",
+      "TransText": "The first is to control the use of land.",
+      "EndSec": 195
+    },
+    {
+      "BeginSec": 195,
+      "Text": "那么控制土地的用途呢，他是留政府呢用于控制旅游供给的一个最基本的手段。",
+      "TransText": "What about controlling the use of land?He is one of the most basic means used by the government to control the supply of tourism.",
+      "EndSec": 207
+    },
+    {
+      "BeginSec": 207,
+      "Text": "嗯，比方说我们可以采用这个城市规划立法呀，根据这些立法呢，我们可以就是说决定土地使用的性质，或者是改变这个土地使用的性质。",
+      "TransText": "Well,For example, we can adopt this city planning legislation,According to these legislation,We can say to determine the nature of land use, or to change the nature of this land use.",
+      "EndSec": 214
+    },
+    {
+      "BeginSec": 214,
+      "Text": "还有就是说我们休息使用土地去做嗯各种各样的开发，表示先经过政府的批准。",
+      "TransText": "In other words, we take a break to use the land to do all kinds of development, which means that we have been approved by the government first.",
+      "EndSec": 220
+    },
+    {
+      "BeginSec": 220,
+      "Text": "比方说我们去在这个有的是工业用地，有的是农业用地。",
+      "TransText": "For example, we go here with some industrial land and some agricultural land.",
+      "EndSec": 229
+    },
+    {
+      "BeginSec": 229,
+      "Text": "那我包括我们建房子，那有的是商业住宅，然后就是呃商业住宅，有的是这个明住宅，这个都是不一样的性质的。",
+      "TransText": "Then I include us building houses.That's commercial housing,And then there's, uh, commercial homes,There are plenty of this Ming residence, which is of a different nature.",
+      "EndSec": 248
+    },
+    {
+      "BeginSec": 248,
+      "Text": "那比如说我们想在这个农村地区啊，像比方说我们这边的这个德清啊，或者是呃莫干山这里，你想在这里开发民宿，你说我想改一个民宿，那其实这个都要经过政府的审批用地的，尤其是你在一些呃风景名胜区。",
+      "TransText": "So, for example, we want to be in this rural area,Like this Deqing on our side, for example,Or, uh, mogan mountain here,You want to develop a home stay here,You said I wanted to change to a hostel,In fact, this has to be approved by the government, especially if you are in some scenic spots.",
+      "EndSec": 255
+    },
+    {
+      "BeginSec": 255,
+      "Text": "比方说最简单来说，我们就在这个公园啊，就是我们的半山公交森林公园，我们将开展一些露营的营地。",
+      "TransText": "For example, in the simplest terms,We are in this park.Is our mid-level bus forest park, we will start some camping camps.",
+      "EndSec": 260
+    },
+    {
+      "BeginSec": 260,
+      "Text": "那你这个ud的审批就是需要政府啊去审批的。",
+      "TransText": "Then you need the government to approve this ud.",
+      "EndSec": 268
+    },
+    {
+      "BeginSec": 268,
+      "Text": "所以这个就是那我可以通过政府可以通过审批用地呢来去调控旅游的供给，这是一方面。",
+      "TransText": "So this is what I can regulate the supply of tourism through the government's approval of land,This is one side.",
+      "EndSec": 276
+    },
+    {
+      "BeginSec": 276,
+      "Text": "呃，另外一方面呢呃政府通过就是调控土地又的用途呢，也可以操控柳开发项目。",
+      "TransText": "Uh,On the other hand, the government can also control the willow development project by regulating the use of the land.",
+      "EndSec": 295
+    },
+    {
+      "BeginSec": 295,
+      "Text": "比方说像上海的迪士尼度假区，那需要占很大的一个面积，那政府呢就可以通过这个呃立法啊或者各种形式，然后去就是说呃去呃允许我们的企业去就是说征用这片土地去做这个旅游项目的开发。",
+      "TransText": "For example, like the Disney Resort in Shanghai,That needs to take up a large area.Then the government can pass this, uh, legislation or various forms, and then go, uh, uh, to allow our enterprises to go, that is, to expropriate this land to develop this tourism project.",
+      "EndSec": 299
+    },
+    {
+      "BeginSec": 299,
+      "Text": "那这个也是很重要的一点，尤其是大型的这个娱乐项目。",
+      "TransText": "This is also a very important point, especially the large-scale entertainment project.",
+      "EndSec": 302
+    },
+    {
+      "BeginSec": 302,
+      "Text": "那么它占用的土地的这个规模是比较大的。",
+      "TransText": "Then the scale of the land it occupies is relatively large.",
+      "EndSec": 308
+    },
+    {
+      "BeginSec": 308,
+      "Text": "所以呢往往是需要政府的这个审批的，包括现在啊高尔夫球场。",
+      "TransText": "Therefore, it is often necessary for the government to approve this, including the current golf course.",
+      "EndSec": 311
+    },
+    {
+      "BeginSec": 311,
+      "Text": "如果你想见告诉哪些是几乎不可能的，为什么？",
+      "TransText": "If you want to tell what is almost impossible, why?",
+      "EndSec": 321
+    },
+    {
+      "BeginSec": 321,
+      "Text": "因为高尔夫球场占地的面积就是对于土地的资源，在这个学术面积特别大，而且这是非常浪费这个国土空间的这个资源。",
+      "TransText": "Because the area of the golf course is the resource for the land,This academic area is particularly large, and this is a waste of this resource in this land space.",
+      "EndSec": 328
+    },
+    {
+      "BeginSec": 328,
+      "Text": "所以就现在的很多，比方说你是你说你想去还投资一个高尔夫这种项目是机会很难的。",
+      "TransText": "So there are many now, for example, you said that it is very difficult for you to invest in a golf project.",
+      "EndSec": 330
+    },
+    {
+      "BeginSec": 330,
+      "Text": "你的用地基本是审批不了的。",
+      "TransText": "Your land is basically unapproved.",
+      "EndSec": 337
+    },
+    {
+      "BeginSec": 337,
+      "Text": "第二个呢就是对建筑物进行管控。",
+      "TransText": "The second is to control the building.",
+      "EndSec": 346
+    },
+    {
+      "BeginSec": 346,
+      "Text": "比方说我们在这个管制区域内的，通常包括像建筑物的规模呀、高度形状和颜色，还有停车场的要求。",
+      "TransText": "For example, if we are in this control area,It usually includes the scale of buildings.Height shape and color, as well as parking requirements.",
+      "EndSec": 353
+    },
+    {
+      "BeginSec": 353,
+      "Text": "比方说可能就是说你在呃尤其是在这个风险名墅区，惠州市古建筑的这个保护区。",
+      "TransText": "For example, it may mean that you are in, uh, especially in this risky villa area, the protected area of ancient buildings in Huizhou.",
+      "EndSec": 362
+    },
+    {
+      "BeginSec": 362,
+      "Text": "那你这个在这里面的你的建筑的这个呃新建或者是改建，那么都会都需要得到这个主管部门的批准。",
+      "TransText": "Then all of your buildings in this, uh, new or rebuilt, will need to be approved by this authority.",
+      "EndSec": 377
+    },
+    {
+      "BeginSec": 377,
+      "Text": "比如说呃拿我们最简单这个绍兴古镇乌镇那屋子里面我们知道有多长和西栅那东站和西站里面，如果你想在这里，我想在我东站的物价之间那种现代化的建筑那个数据不允许的。",
+      "TransText": "For example, take our simplest house in Wuzhen, an ancient town in Shaoxing, and we know how long there is in the east and west stations in Xizha,If you want to be here,I think the modern building data between the prices of my east station is not allowed.",
+      "EndSec": 397
+    },
+    {
+      "BeginSec": 397,
+      "Text": "所以这个也是对建筑物经营管这个我不知道大家有没有去过云南这个旅游，有没有球员干的，就是说你们去云南去旅游，有机会去的话，你就可以看到，就是在云南的话就看到很多的外国建筑的外观都是经过美化的，就是所谓的穿衣戴帽。",
+      "TransText": "So this is also the management of buildings. I don't know if everyone has been to Yunnan for this tour.Did any players do it?That is to say, you will travel to Yunnan.If you have the chance to go,You can see,Even in Yunnan, we can see that the appearance of many foreign buildings is beautified, that is, the so-called dressing and wearing hats.",
+      "EndSec": 412
+    },
+    {
+      "BeginSec": 412,
+      "Text": "就是说为了就是说让你的这是当地的目的地，圆圆形一下变得更好看，就会对建筑物啊啊道路啊这个景观啊这个美化，这就是呃也是我们这个政府调控目的地的呃供给的一种手段。",
+      "TransText": "That is to say, to make your destination a local destination.The circle becomes better looking.It will beautify buildings, roads, landscapes, and beautify them. This is, uh, a means for our government to regulate the supply of destinations.",
+      "EndSec": 423
+    },
+    {
+      "BeginSec": 423,
+      "Text": "它可以让这个建筑物，比方说通过粉刷外墙统一的外墙统一寄我这个名呃，云南民族风的这种呃建筑啊，或者是装饰啊，这个也是一种手段。",
+      "TransText": "It can make this building,For example, by painting the exterior wall, the exterior wall is unified to send me this name, uh,This kind of architecture, or decoration, of Yunnan ethnic style is also a means.",
+      "EndSec": 439
+    },
+    {
+      "BeginSec": 439,
+      "Text": "第三个呢，就是行使这个市场管制呃，这个手段主要包括比如说我控制市场的准入啊呃维护公平竞争以及保护消费者的权益。",
+      "TransText": "The third one is the exercise of this market control, uh,This method mainly includes, for example, my control of market access ah, uh, to maintain fair competition and protect the rights and interests of consumers.",
+      "EndSec": 457
+    },
+    {
+      "BeginSec": 457,
+      "Text": "嗯，那比如说在呃特别是在私营部门，主要就是具备足够的实力，能够有效的实行行业自律的情况下呢，政府可以借助旅游行业协会的力量呢制定和推动有个行业的这种行为规范来达到政府管制的目的。",
+      "TransText": "Well,Well, for example, in the, uh, especially in the private sector,The main thing is to have enough strength,Under the condition that industry self-discipline can be effectively implemented, the government can use the power of tourism industry associations to formulate and promote such codes of conduct in one industry to achieve the purpose of government regulation.",
+      "EndSec": 477
+    },
+    {
+      "BeginSec": 477,
+      "Text": "比方说现在我们国家那就有呃旅行社协会、景区协会，然后中国旅游协会就是通过这些协会，比如说还有酒店协会，那通过旅旅行社协会，那么他就可以通过的制定一些行业标准行业规范来去管。",
+      "TransText": "For example, now our country has, uh, a travel agency association,Scenic Area Association,Then the China Tourism Association is through these associations,For example, there are hotel associations.That through the Travel Agency Association, then he can pass the development of some industry standards industry norms to manage.",
+      "EndSec": 484
+    },
+    {
+      "BeginSec": 484,
+      "Text": "就是说对整个行业的这个要求，市场行为进行一个约束，这就是一个市场和管制。",
+      "TransText": "That is to say, this requirement for the entire industry,Market behavior carries a constraint, which is a market and regulation.",
+      "EndSec": 490
+    },
+    {
+      "BeginSec": 490,
+      "Text": "主要这个政府直接发文或者发通知去调控，去管制这个行业或者市场。",
+      "TransText": "The main government directly issues or notices to regulate and control the industry or market.",
+      "EndSec": 493
+    },
+    {
+      "BeginSec": 493,
+      "Text": "那行业组织也是发挥的一些作用的。",
+      "TransText": "That industry organization also plays some role.",
+      "EndSec": 514
+    },
+    {
+      "BeginSec": 514,
+      "Text": "比方说我们有旅行社，这个呃旅行社就是用会员的手册呀，会员的这种条例啊，你要成为中国旅行社协会的这个会员，你要催交纳一定的会费呀，然后要求遵守一定的行业的公约呀，这个就是也是一种行业的这个呃调控市场管制。",
+      "TransText": "Let's say we have a travel agency,This, uh, travel agency uses a member's handbook,This kind of regulations of members,You want to be a member of the China Travel Service Association.You have to urge a certain membership fee.Then it is required to abide by the conventions of certain industries. This is also an industry that regulates the market.",
+      "EndSec": 522
+    },
+    {
+      "BeginSec": 522,
+      "Text": "还有就是实行特别的征税，比方有些国家有地区呃对来访者蜘蛛旅游税。",
+      "TransText": "There is also a special tax,For example, some countries have a regional, uh, spider travel tax on visitors.",
+      "EndSec": 528
+    },
+    {
+      "BeginSec": 528,
+      "Text": "那这上一级给我们讲过，别人去呃这个日本的时候，他收一些税。",
+      "TransText": "Then the next level told us,When others go to, uh, this Japan, he collects some taxes.",
+      "EndSec": 538
+    },
+    {
+      "BeginSec": 538,
+      "Text": "还有就是这个上节我们讲过，那就是说你来我这个国家，那你要是像收一些过夜费呀，你你来我这，你在这住宿，我就要跟你说结过过夜费。",
+      "TransText": "And this is what we said last quarter,That means you came to my country,Then if you charge some overnight fees,You, you come to me,If you stay here, I'll tell you that I 've paid for the night.",
+      "EndSec": 541
+    },
+    {
+      "BeginSec": 541,
+      "Text": "这个在上一节课我们讲过对吧？",
+      "TransText": "We talked about this in the last class, didn't we?",
+      "EndSec": 545
+    },
+    {
+      "BeginSec": 545,
+      "Text": "第五个呢就是投资鼓励的政策。",
+      "TransText": "The fifth is the policy of investment encouragement.",
+      "EndSec": 550
+    },
+    {
+      "BeginSec": 550,
+      "Text": "比方说，政府鼓励发展旅游业，鞋塘乳业发展的地区布局。",
+      "TransText": "Let's say,The Government encourages the development of tourism,Regional layout of Shoe Pond Dairy Development.",
+      "EndSec": 556
+    },
+    {
+      "BeginSec": 556,
+      "Text": "啊，比方说呃这个我们国家这个东部东中西啊三个区域这个发展平衡。",
+      "TransText": "Ah, let's say, uh, this eastern part of our country, east, west, west, and three regions, this balanced development.",
+      "EndSec": 566
+    },
+    {
+      "BeginSec": 566,
+      "Text": "那政府可以通过一些政策的这个出台呀，鼓励大家到西部去投资啊，这个是有投资鼓励的政策。",
+      "TransText": "The government can encourage people to invest in the west through this policy,This is a policy with investment incentives.",
+      "EndSec": 580
+    },
+    {
+      "BeginSec": 580,
+      "Text": "第二个呢呃为了消除像刘烨发展中的一些供给瓶颈问题啊，像很多国家和地区呢，他也对有关旅游相关的开发者和投资者实际这样那样的就是鼓励政策。",
+      "TransText": "The second one, uh, to eliminate some of the supply bottlenecks in the development of Liu Ye,Like many countries and regions, he also encourages tourism-related developers and investors in fact.",
+      "EndSec": 588
+    },
+    {
+      "BeginSec": 588,
+      "Text": "比方说像前一段时间，前几天就是我们国家颁布的这个推进关于这个露营的发展的这种呃通知发布的。",
+      "TransText": "For example, some time ago, a few days ago, our country issued this, uh, notice to promote the development of this camping.",
+      "EndSec": 593
+    },
+    {
+      "BeginSec": 593,
+      "Text": "那其实他就是一个叫做鼓励这个录音的发展的这样的一个政策。",
+      "TransText": "In fact, he is a policy called encouraging the development of this recording.",
+      "EndSec": 608
+    },
+    {
+      "BeginSec": 608,
+      "Text": "由于还有一些地区政府，我们看到就就是像云南，比如说你要是在云南遥远投资呃这个多少万元的这个项目，那政府会有奖励的。",
+      "TransText": "Since there are also some regional governments,We see it like Yunnan,For example, if you invest in this project in Yunnan, the government will reward you.",
+      "EndSec": 626
+    },
+    {
+      "BeginSec": 626,
+      "Text": "比方说你做假如说不投资项目作为一个旅行社，那你要是比方说你为我忘记他拒绝人数是多少了，你带到了你就是说你你就是说呃你为这个云南带去多少游客了，就是让不少外地的游客到云南旅游。",
+      "TransText": "For example, if you do not invest in a project as a travel agency,If you, for example, forget for me how many people he refused,When you bring you, that is to say, you mean, uh, how many tourists have you brought to Yunnan, that is, to let many tourists from other places travel to Yunnan.",
+      "EndSec": 641
+    },
+    {
+      "BeginSec": 641,
+      "Text": "比方说他的妖精是呃有几个档次，有比方说5000人次、1万人次，15000，那不同的档次呢，人若他就会给你相应的不同的补贴，就是你的代替的人数越多，您可能获得政府的补贴就越多。",
+      "TransText": "For example, his goblins are, uh, in several grades.There are, for example, 5000 person-times,10,000 person-times,15000,What about different grades?If a person, he will give you different subsidies accordingly.That is, the more people you replace, the more subsidies you may receive from the government.",
+      "EndSec": 650
+    },
+    {
+      "BeginSec": 650,
+      "Text": "这也是政府为了鼓励就是说呃我们当地的企业，然后吸引更多的外地的游客到当地旅游采取的一种补贴政策。",
+      "TransText": "This is also a subsidy policy adopted by the government to encourage our local enterprises and then attract more tourists from other places to travel there.",
+      "EndSec": 666
+    },
+    {
+      "BeginSec": 666,
+      "Text": "嗯，首先呢就是说为了寻找我们呢，我们讲了这么多，什么是政策，什么是刘政策以及政府为什么要制定流政策。",
+      "TransText": "Well,First of all, in order to find us,We have said so much,What is the policy, what is the Liu policy and why the government should formulate the flow policy.",
+      "EndSec": 672
+    },
+    {
+      "BeginSec": 672,
+      "Text": "那么这个时候可以从哪些方面去管控留这个车呢，去调控旅游呢？",
+      "TransText": "So in what ways can we control the car at this time?To regulate tourism?",
+      "EndSec": 676
+    },
+    {
+      "BeginSec": 676,
+      "Text": "那我们想说从两个方面，一个是供给端和需求端。",
+      "TransText": "Then we would like to say from two aspects, one is the supply side and the demand side.",
+      "EndSec": 678
+    },
+    {
+      "BeginSec": 678,
+      "Text": "那么去调控我们的流就走。",
+      "TransText": "Then go control our flow and go.",
+      "EndSec": 683
+    },
+    {
+      "BeginSec": 683,
+      "Text": "但是现在有正式的开端呢，是从哪里开始的呢？",
+      "TransText": "But now there is a formal beginning. Where did it start?",
+      "EndSec": 695
+    },
+    {
+      "BeginSec": 695,
+      "Text": "就是为了寻找流政策，就是我们讨论的歌现在的政策的开端嘛，我们必须要对全球最为重要的一个庐组织呢就是进行一些就是介绍。",
+      "TransText": "In order to find a flow policy,This is the beginning of our current policy. We must introduce some of the most important organizations in the world.",
+      "EndSec": 698
+    },
+    {
+      "BeginSec": 698,
+      "Text": "然后去寻找，就是我们现在有政策的开端。",
+      "TransText": "Then looking for it is the beginning of our policy now.",
+      "EndSec": 708
+    },
+    {
+      "BeginSec": 708,
+      "Text": "在介绍就是说世界有组织之前呢，我们先来看一看就是国际旅游组织的分类，还有成因。",
+      "TransText": "Before the introduction means that the world is organized,Let's take a look at the classification of the International Tourism Organization and the causes.",
+      "EndSec": 717
+    },
+    {
+      "BeginSec": 717,
+      "Text": "那狭义的国际组织呢，它主要是指这个成员呢来自多个国家，并为多国利益工作和服务的全面性。",
+      "TransText": "What about international organizations in a narrow sense?It mainly refers to the comprehensiveness of this member who comes from many countries and works and serves the interests of many countries.",
+      "EndSec": 718
+    },
+    {
+      "BeginSec": 718,
+      "Text": "如组织。",
+      "TransText": "Such as the organization.",
+      "EndSec": 736
+    },
+    {
+      "BeginSec": 736,
+      "Text": "那同时呢还有这个广义的人组织，他还包括那些及工作部分地区涉及国际流事务的这种国际组织，还有以及专门涉及旅游事务某些方面的国际性旅游同业组织，就是国际旅游组织有两个方面。",
+      "TransText": "At the same time, there is this broad human organization.He also includes such international organizations that are involved in international affairs and in parts of their work,There are also international tourism industry organizations that specialize in certain aspects of tourism affairs, that is, international tourism organizations have two aspects.",
+      "EndSec": 738
+    },
+    {
+      "BeginSec": 738,
+      "Text": "那我们看下它的一个分类标准。",
+      "TransText": "Then let's look at one of its classification criteria.",
+      "EndSec": 763
+    },
+    {
+      "BeginSec": 763,
+      "Text": "如果按照成员特点来分类呢，我们可以查的类型可以有这种有个人的个人组成的这个组织，还有公司啊、社会团体及国家政府为代表的这种成员的国际旅游组织下，呃，我们的国际主义学会，还有联合国教科文组织，还有国际旅游联盟。",
+      "TransText": "What if it is classified according to the characteristics of the members?The type we can check can be this organization composed of individuals.And companies,Under the international tourism organization of such members, represented by social groups and national governments,Uh,Our internationalist society,There is also UNESCO and the International Tourism Union.",
+      "EndSec": 775
+    },
+    {
+      "BeginSec": 775,
+      "Text": "那么世界流理事会他们都属于成员，就是为特点的一个这样的一些国际组织，还有按照组织的地位呢可以划分为政府间组织和非政府组织。",
+      "TransText": "Then they are all members of the World Flow Council.It is such an international organization that is characterized by its status, and it can be divided into intergovernmental organizations and non-governmental organizations according to its status.",
+      "EndSec": 781
+    },
+    {
+      "BeginSec": 781,
+      "Text": "那三个视角有组织世界，如理事会，世界有组织的，他就是一个政府间的组织。",
+      "TransText": "Those three perspectives have an organized world.Such as the Council,The world is organized,He is an intergovernmental organization.",
+      "EndSec": 785
+    },
+    {
+      "BeginSec": 785,
+      "Text": "世界旅游理事会呢，他是个非政府的组织。",
+      "TransText": "The World Tourism Council is a non-governmental organization.",
+      "EndSec": 795
+    },
+    {
+      "BeginSec": 795,
+      "Text": "那么还有像地域范围分呢，我们可以分为以全球性的组织和地区性的组织向国际离旅馆协会，他都是一个全球性的组织。",
+      "TransText": "So there's something like a geographical area,We can be divided into global organizations and regional organizations to the International Hotel Association, which is a global organization.",
+      "EndSec": 802
+    },
+    {
+      "BeginSec": 802,
+      "Text": "那欧洲旅游委员会他仅仅源于欧洲，一个是欧洲一个地区，所以它属于一个地区的这个组织。",
+      "TransText": "The European Tourism Commission only originated in Europe.One is a region of Europe, so it belongs to this organization of a region.",
+      "EndSec": 810
+    },
+    {
+      "BeginSec": 810,
+      "Text": "我们还可以从这个工作区域来划分，就是工作的领域那部分涉及流数的一般性国际组织。",
+      "TransText": "We can also divide it from this area of work, which is the general international organization that involves the number of flows in that part of the area of work.",
+      "EndSec": 821
+    },
+    {
+      "BeginSec": 821,
+      "Text": "就是说我这个国际组织向世界银行，那么他其中有一部分业务呢是涉及到这个流呃，涉及到旅游业务。",
+      "TransText": "That is to say, I, an international organization, have asked the World Bank,So part of his business is related to this flow, uh, travel business.",
+      "EndSec": 836
+    },
+    {
+      "BeginSec": 836,
+      "Text": "旅游是，所以呢它是一般部分涉及的这个国际性组织，还有一个是全面设计旅游事务的专门性国际组织，或者是专门涉及某一业务领域的这个同业性国际组织向世界流屡屡理事会。",
+      "TransText": "Tourism is,So it's an international organization that is involved in the general part,There is also a specialized international organization that comprehensively designs tourism affairs, or this peer international organization that specializes in a certain business field has repeatedly flowed to the world.",
+      "EndSec": 842
+    },
+    {
+      "BeginSec": 842,
+      "Text": "他就是个呃就是全面设计旅游事物的一个是国际性组织。",
+      "TransText": "He's an, uh, international organization that's a comprehensive design of tourism.",
+      "EndSec": 853
+    },
+    {
+      "BeginSec": 853,
+      "Text": "那世界旅游组织他也是一个全面的那国际航空运输协会呢，他就是专业的，就是专门设计这个航空这一个领域的这个同业的一个国际性组织。",
+      "TransText": "The World Tourism Organization is also a comprehensive International Air Transport Association.He is a professional, an international organization that specializes in designing this industry in this field of aviation.",
+      "EndSec": 861
+    },
+    {
+      "BeginSec": 861,
+      "Text": "所以大家去我想去国际组织以后，呃，他他每年都会招聘的，就是你可以去多多多多的去投一些看一下。",
+      "TransText": "So after everyone goes to an international organization,Well, he he recruits every year, that is, you can go to more and more to vote for a look.",
+      "EndSec": 867
+    },
+    {
+      "BeginSec": 867,
+      "Text": "那我们介绍了国际有组织的和分类和成因。",
+      "TransText": "Then we introduced the international organization and classification and causes.",
+      "EndSec": 874
+    },
+    {
+      "BeginSec": 874,
+      "Text": "那我们就来看一看，就是说啊现在留就是开关，就是联合国世界旅游组织。",
+      "TransText": "Then let's take a look.That is to say, now stay is the switch, that is, the United Nations World Tourism Organization.",
+      "EndSec": 881
+    },
+    {
+      "BeginSec": 881,
+      "Text": "那是这有组织呢，它是嗯word to the organization，就是WTOUNWQO。",
+      "TransText": "That's the organization here.It is, uh, word to the organization, WTOUNWQO.",
+      "EndSec": 886
+    },
+    {
+      "BeginSec": 886,
+      "Text": "那我们知道wto还有一个是代表，另外一个意思是什么意思？",
+      "TransText": "Then we know that wto has another representative and what does the other mean?",
+      "EndSec": 891
+    },
+    {
+      "BeginSec": 891,
+      "Text": "对世界贸易组织。",
+      "TransText": "To the World Trade Organization.",
+      "EndSec": 897
+    },
+    {
+      "BeginSec": 897,
+      "Text": "那在理由中呢，它就是这个就是我to the organization。",
+      "TransText": "What about the reasons,This is it, this is my to the organization.",
+      "EndSec": 903
+    },
+    {
+      "BeginSec": 903,
+      "Text": "所以呢就是他是最早是留领域中的这种领导性的国际组织。",
+      "TransText": "Therefore, he was the first leading international organization in the field.",
+      "EndSec": 909
+    },
+    {
+      "BeginSec": 909,
+      "Text": "那么最早由国际官方如组织旅游宣传组织联盟这个发展而来的。",
+      "TransText": "Then it was first developed by international officials such as the Alliance of Tourism Promotion Organizations.",
+      "EndSec": 919
+    },
+    {
+      "BeginSec": 919,
+      "Text": "那么他201呃，03年11月份成为这个联合国的专门机构，目前呢还有158个正式的会员国和16个的联系过。",
+      "TransText": "So he 201, uh,It became a specialized agency of the United Nations in November 2003. At present, there are still 158 official member states and 16 contacts.",
+      "EndSec": 930
+    },
+    {
+      "BeginSec": 930,
+      "Text": "那么这个组织的宗旨就是促进和发展旅游事业，然后使之有益于经济的发展以及国际间的相互了解嗯，和平与繁荣。",
+      "TransText": "Then the purpose of this organization is to promote and develop tourism,Then it will benefit economic development and international mutual understanding. Well, peace and prosperity.",
+      "EndSec": 935
+    },
+    {
+      "BeginSec": 935,
+      "Text": "那么它的总部呢是在这个西班牙的马德里。",
+      "TransText": "So its headquarters is in Madrid, Spain.",
+      "EndSec": 940
+    },
+    {
+      "BeginSec": 940,
+      "Text": "这是这个组织的这个标志。",
+      "TransText": "This is this hallmark of this organization.",
+      "EndSec": 943
+    },
+    {
+      "BeginSec": 943,
+      "Text": "联合国呀。",
+      "TransText": "The United Nations.",
+      "EndSec": 958
+    },
+    {
+      "BeginSec": 958,
+      "Text": "那么我们来看一下呃，世界旅游组织的这个嗯他的一个是嗯他最开始的一个发展历程。",
+      "TransText": "So let's take a look at, uh, the World Tourism Organization's, uh, one of his first developments.",
+      "EndSec": 964
+    },
+    {
+      "BeginSec": 964,
+      "Text": "他其实他最早已经始于1925年，也就是说目前快将近100年了。",
+      "TransText": "In fact, he started in 1925 at the earliest, that is to say, it is nearly 100 years old.",
+      "EndSec": 972
+    },
+    {
+      "BeginSec": 972,
+      "Text": "那么他最早是是的啊，就是荷兰海牙建立的这个国际官方旅游协会的一个代表大会。",
+      "TransText": "So he was the first to be, ah, a congress of this official international tourist association established in The Hague, the Netherlands.",
+      "EndSec": 978
+    },
+    {
+      "BeginSec": 978,
+      "Text": "那么34年的时候更名为呃官方的旅游宣传组织国际联合会。",
+      "TransText": "Then in 34 years it was renamed the International Federation, the official tourism promotion organization.",
+      "EndSec": 997
+    },
+    {
+      "BeginSec": 997,
+      "Text": "那么所以这二战以后呢，就是说西方国家的这种呃福利的时候会开始就是说兴起的时候，就是在该组织在47年的歌名官方履行组织国际联合会马1950年呢他们就迁到了这个呃瑞士日内瓦啊，所以你看在这一个时期呢。",
+      "TransText": "So what about after World War II,That is to say, this kind of welfare in western countries will start, that is, when it rises,It was in the organization's 47-year song title official implementation organization, the International Federation, in 1950 that they moved to this, uh, Geneva, Switzerland, so you see this period.",
+      "EndSec": 1002
+    },
+    {
+      "BeginSec": 1002,
+      "Text": "他们的旅游政策呢是促进贸易和旅游在经济发展中的呃战略的作用。",
+      "TransText": "Their tourism policy is to promote the role of trade and tourism in economic development.",
+      "EndSec": 1016
+    },
+    {
+      "BeginSec": 1016,
+      "Text": "也就是说，在50年代的时候，这个组织它最重要的是通过旅发旅游发挥就是发挥旅游在经济发展中的这样的一个战略作用。",
+      "TransText": "that is,In the 1950s, the most important thing for this organization was to play such a strategic role in economic development through tourism development.",
+      "EndSec": 1020
+    },
+    {
+      "BeginSec": 1020,
+      "Text": "那我们国家是什么时候去旅游的一个战略作用的战略地位的。",
+      "TransText": "Then when did our country play a strategic role in traveling?",
+      "EndSec": 1031
+    },
+    {
+      "BeginSec": 1031,
+      "Text": "2009年就是2019年，我们在这个官方文件中把旅游确立一个战略性的发展的这个地位。",
+      "TransText": "In 2009, 2019, we established tourism as a strategic development position in this official document.",
+      "EndSec": 1041
+    },
+    {
+      "BeginSec": 1041,
+      "Text": "那么嗯官方的旅行组织国际联合会呢，他致力于成为一个这个呃强烈的世界性旅游组织。",
+      "TransText": "What about, uh, the International Federation of official travel organizations,He is committed to becoming this, uh, strong world tourism organization.",
+      "EndSec": 1046
+    },
+    {
+      "BeginSec": 1046,
+      "Text": "那么在79年在墨西哥城呢举办了一个特别的全体会议。",
+      "TransText": "So a special plenary meeting was held in Mexico City in '79.",
+      "EndSec": 1050
+    },
+    {
+      "BeginSec": 1050,
+      "Text": "那么制定各种规章，就是成立了世界旅游组织。",
+      "TransText": "Then make various regulations,Is the establishment of the World Tourism Organization.",
+      "EndSec": 1054
+    },
+    {
+      "BeginSec": 1054,
+      "Text": "那么在1975年呢，在马德里举办了这个全体大会。",
+      "TransText": "So in 1975, this plenary meeting was held in Madrid.",
+      "EndSec": 1064
+    },
+    {
+      "BeginSec": 1064,
+      "Text": "嗯，1976年了，宠爱联合国开发计划署的这个执行机构，就是最开始它不是一个单独的这个结果，是开发计划署的一个执行结果。",
+      "TransText": "Well,In 1976,Pampering this executive body of the United Nations Development Programme,At first, it was not a separate result, but an implementation result of UNDP.",
+      "EndSec": 1071
+    },
+    {
+      "BeginSec": 1071,
+      "Text": "到2013年呢就成为联合国的一个专门机构，就是成为线下的联合国世界旅游组织。",
+      "TransText": "By 2013, it will become a specialized agency of the United Nations, that is, the offline United Nations World Tourism Organization.",
+      "EndSec": 1082
+    },
+    {
+      "BeginSec": 1082,
+      "Text": "那我们看到它是呃它的宗旨，呃，这是一个详细的这个发展的时间。",
+      "TransText": "Then we see that it is, uh, its purpose,Well, this is a detailed time for this development.",
+      "EndSec": 1084
+    },
+    {
+      "BeginSec": 1084,
+      "Text": "这个我刚才都介绍了。",
+      "TransText": "I have just introduced this.",
+      "EndSec": 1098
+    },
+    {
+      "BeginSec": 1098,
+      "Text": "那我们看他的一个组织机构，就是联合国的组织机构呢，他主要包括这个全体大会执行委员会秘书处，还有地区的这种委员会。",
+      "TransText": "Then let's look at one of his organizations.It's the organization of the United Nations,He mainly includes the secretariat of the Executive Committee of this plenary assembly, as well as such committees in the region.",
+      "EndSec": 1105
+    },
+    {
+      "BeginSec": 1105,
+      "Text": "那么其中全体大会呢是它的一个最高的权力机构啊，他们也要每两年召开一次。",
+      "TransText": "So the General Assembly is one of its highest authorities,They also convene every two years.",
+      "EndSec": 1107
+    },
+    {
+      "BeginSec": 1107,
+      "Text": "然后谁应该组织的重大问题。",
+      "TransText": "Then the big question of who should organize.",
+      "EndSec": 1111
+    },
+    {
+      "BeginSec": 1111,
+      "Text": "那执行委员会呢，就是每每年至少召开两次会议。",
+      "TransText": "What about the executive committee, which is to meet at least twice a year.",
+      "EndSec": 1128
+    },
+    {
+      "BeginSec": 1128,
+      "Text": "那么执行委员会下面又设5个委员会，第一个是激化和协调技术委员会，还有预算和财务嗯及第三个是环境保护委员会，第四个是简化手续委员会B呃，五个是这个旅游安全委员会。",
+      "TransText": "Then there are five more committees under the Executive Committee, the first of which is the Technical Committee on Agitation and Coordination,There are also budgets and finances, and the third is the Environmental Protection Committee,The fourth is the Facilitation Committee B Uh, five is this Tourism Safety Committee.",
+      "EndSec": 1134
+    },
+    {
+      "BeginSec": 1134,
+      "Text": "那么由秘书处呢来负责这个日常的工作。",
+      "TransText": "So the Secretariat is in charge of this day-to-day work.",
+      "EndSec": 1150
+    },
+    {
+      "BeginSec": 1150,
+      "Text": "这个秘书长呢有执委会推荐，那么大会选举产生，那么他会在地区呢嗯委员呢会非设置这个常设的这种机构，负责协调组织呢本地区的一个研讨会呀，工作项目和地区性的活动。",
+      "TransText": "The Secretary-General was recommended by the Executive Committee,Then the general assembly is elected,So he's going to be in the region, and the committee will not set up this permanent body,Responsible for coordinating and organizing a seminar, work projects and regional activities in the region.",
+      "EndSec": 1157
+    },
+    {
+      "BeginSec": 1157,
+      "Text": "那么每年召开一次会议，那其实呃就是世界旅游组织他自己的这种下属的这种规划机构。",
+      "TransText": "So a meeting is held every year, which is actually, uh, a planning agency of the World Tourism Organization's own subordinate.",
+      "EndSec": 1164
+    },
+    {
+      "BeginSec": 1164,
+      "Text": "我记得好像是黄山吧，四排他们的这个规划之前好像都是由世界旅游组织他们来做的。",
+      "TransText": "I remember it seemed to be Huangshan. Before the four rows of their plans, it seemed that they were all made by the World Tourism Organization.",
+      "EndSec": 1179
+    },
+    {
+      "BeginSec": 1179,
+      "Text": "嗯，那么联合国他在这个在旅游组织呢，他呃如组织呢在旅国际旅游的各个方面呀，其实都扮演着一个呃领导的角色。",
+      "TransText": "Well,So the United Nations is in this tourism organization,He, uh, is an organization that actually plays a leading role in all aspects of international travel.",
+      "EndSec": 1199
+    },
+    {
+      "BeginSec": 1199,
+      "Text": "这其中就包括刘政策，那么它是全球议题定义好稿子，数据研究、教育、人力资源发展、危机管理可持续性呃，发展和全球经济合作的一个是呃在这一方面呢，他都有探讨，他每年会去就是刚才说他每年有举办一个。",
+      "TransText": "This includes the Liu policy, so it's a good definition of global issues,Data research,Education,Human resources development,Crisis management sustainability, uh,One of the developments and global economic cooperation is, uh, in this regard,He has discussed it all. He goes there every year. Just now he said that he holds one every year.",
+      "EndSec": 1204
+    },
+    {
+      "BeginSec": 1204,
+      "Text": "每两年举办一个就是全体大会，然后会就一些这样的重要议题进行讨论。",
+      "TransText": "A general meeting is held every two years, and then some such important topics will be discussed.",
+      "EndSec": 1208
+    },
+    {
+      "BeginSec": 1208,
+      "Text": "那我们来看一下是联合国的这个呃官方网站。",
+      "TransText": "Then let's take a look at this, uh, official website of the United Nations.",
+      "EndSec": 1250
+    },
+    {
+      "BeginSec": 1250,
+      "Text": "我不上去。",
+      "TransText": "I'm not going up there.",
+      "EndSec": 1318
+    },
+    {
+      "BeginSec": 1318,
+      "Text": "就是打开这个我的最后你可以选择这个语言，可以选择这个中文的语言。",
+      "TransText": "It is to open this and I finally you can choose this language, you can choose this Chinese language.",
+      "EndSec": 1325
+    },
+    {
+      "BeginSec": 1325,
+      "Text": "就是中文是设的旅游组织的这个官方源之一。",
+      "TransText": "It is that Chinese is one of the official sources of the tourism organization.",
+      "EndSec": 1341
+    },
+    {
+      "BeginSec": 1341,
+      "Text": "我也找一下，这就是我们进来之后，这就是联合国的一个是官方的网页。",
+      "TransText": "I'll look for it, too.This is the official website of the United Nations after we came in.",
+      "EndSec": 1347
+    },
+    {
+      "BeginSec": 1347,
+      "Text": "但是其中呢中文是这个联合国这个世界卢组织的一个官方语言之一。",
+      "TransText": "But among them, Chinese is one of the official languages of the United Nations, the world organization.",
+      "EndSec": 1350
+    },
+    {
+      "BeginSec": 1350,
+      "Text": "但是呃我在这里怎么找不到他那个官网？",
+      "TransText": "But, uh, why can't I find his official website here?",
+      "EndSec": 1357
+    },
+    {
+      "BeginSec": 1357,
+      "Text": "这是他有几个？",
+      "TransText": "How many does he have?",
+      "EndSec": 1364
+    },
+    {
+      "BeginSec": 1364,
+      "Text": "第一个呢是关于联合国的一些介绍，也是他们聚焦的一些点，还有一些资源的这种我们可以看到极其新闻。",
+      "TransText": "The first one is about some introductions to the United Nations, which are also some of the points they focus on, and some resources that we can see are extremely news.",
+      "EndSec": 1380
+    },
+    {
+      "BeginSec": 1380,
+      "Text": "呃，比方说我们可以看一下他们的一些介绍，就是关于就是联合国他在官网上的一些介绍。",
+      "TransText": "Uh,For example, we can take a look at some of their introductions, which are about the United Nations.",
+      "EndSec": 1391
+    },
+    {
+      "BeginSec": 1391,
+      "Text": "比如说他们的一些嗯优先的这个事项呀，然后促进可持续发展呀，然后促进这个呃提高旅游的这种竞争力啊。",
+      "TransText": "For example, some of their priorities, and then promote sustainable development, and then promote this, uh, to improve the competitiveness of tourism.",
+      "EndSec": 1401
+    },
+    {
+      "BeginSec": 1401,
+      "Text": "然后还有就是呃建立这个合作关系啊，包括成员之间以及这个点评啊，促进这个旅游简评。",
+      "TransText": "Then there is the establishment of this partnership, including members and this review, to promote this travel review.",
+      "EndSec": 1409
+    },
+    {
+      "BeginSec": 1409,
+      "Text": "呃，还可以看一些他们的这个资源。",
+      "TransText": "Well, you can also look at some of their resources.",
+      "EndSec": 1417
+    },
+    {
+      "BeginSec": 1417,
+      "Text": "在资源这一块呢，我们就可以他的一个是。",
+      "TransText": "In the area of resources, we can have one of them.",
+      "EndSec": 1431
+    },
+    {
+      "BeginSec": 1431,
+      "Text": "羽西一些这个服务啊，这个事件呀，就是如果是一般死，也可以成为杰士在国外还可以成为世界还有他们的一些出版物。",
+      "TransText": "Yuxi some of this service ah,This incident,Even if it is a general death, it can also become Jashi abroad, it can also become the world and some of their publications.",
+      "EndSec": 1440
+    },
+    {
+      "BeginSec": 1440,
+      "Text": "在这里呢，如果大家看一些这个呃研究报告，我们可以在联合国这个publication这一块呢去他们每年会有一些出版物。",
+      "TransText": "Here it is,If you look at some of this, uh, research report, we can go to the United Nations as a publication. They have some publications every year.",
+      "EndSec": 1445
+    },
+    {
+      "BeginSec": 1445,
+      "Text": "我们可以在这里呢去下载了一些呃出版物来来看来阅读。",
+      "TransText": "We can download some uh publications here to look at and read.",
+      "EndSec": 1461
+    },
+    {
+      "BeginSec": 1461,
+      "Text": "比方说就是他们的一些呃出版物，那我们可以在这里就可以呃直接点击进去看或者是下载。",
+      "TransText": "For example, some of their publications, then we can click here to see or download them directly.",
+      "EndSec": 1477
+    },
+    {
+      "BeginSec": 1477,
+      "Text": "嗯，大家从那个谷歌里面可能进不去，然后就是从这个我刚刚开始从排百度直接进去的。",
+      "TransText": "Well,Everyone may not be able to get in from that Google, and then from this I just started to get in directly from Baidu.",
+      "EndSec": 1480
+    },
+    {
+      "BeginSec": 1480,
+      "Text": "所以大家课后的时候可以去自己都要看看自己的。",
+      "TransText": "So everyone can go after class and have a look at their own.",
+      "EndSec": 1494
+    },
+    {
+      "BeginSec": 1494,
+      "Text": "那么其兄联合国旅游组织呢啊世界里赌其中有一项重要的内容呢就是呃每年的世界留日啊，每年的9月27日呢是世界旅游日。",
+      "TransText": "What about his brother, the United Nations Tourism Organization? One of the most important things in the world is that the world stays in Japan every year,Every year, September 27 is World Tourism Day.",
+      "EndSec": 1500
+    },
+    {
+      "BeginSec": 1500,
+      "Text": "那么数据流日呢，还是由世界旅游组织确定了，由工作者和旅游者的一个节日。",
+      "TransText": "What about the data flow day?It was determined by the World Tourism Organization.A festival by workers and tourists.",
+      "EndSec": 1509
+    },
+    {
+      "BeginSec": 1509,
+      "Text": "那么他1970年的这个9月27日呢，就是官方的这种国际官方旅游联盟在墨西哥城呢举行了特别大会。",
+      "TransText": "What about this September 27, 1970,It is the official international official tourism alliance that held a special conference in Mexico City.",
+      "EndSec": 1515
+    },
+    {
+      "BeginSec": 1515,
+      "Text": "然后通过了世界旅游组织这个章程嘛，就是为纪念这个日子。",
+      "TransText": "Then the constitution of the World Tourism Organization was passed to commemorate this day.",
+      "EndSec": 1526
+    },
+    {
+      "BeginSec": 1526,
+      "Text": "那么所以呢啊谢谢旅游组织呢在旧79年的9月呢，第三次代表大会呢就是把这个9月27日呢定为世界旅游日。",
+      "TransText": "So, thank you, the tourism organization. In September of the old 79 years, the third congress designated September 27 as World Tourism Day.",
+      "EndSec": 1541
+    },
+    {
+      "BeginSec": 1541,
+      "Text": "那么为普及这个流理念呢，还有就是说产品旅游的作用和意义呢，就是世界旅游组织呢从1986年起呢，每年都为世界流入呢地确定一个主题。",
+      "TransText": "So to popularize this concept of flow,There is also the role and significance of product tourism,Since 1986, the World Tourism Organization has set a theme for the inflow of the world every year.",
+      "EndSec": 1547
+    },
+    {
+      "BeginSec": 1547,
+      "Text": "那么各国的旅游组织呢，根据主题还有这个要求呢，可以开展相关的活动。",
+      "TransText": "What about the tourism organizations of various countries?According to the theme and this requirement, relevant activities can be carried out.",
+      "EndSec": 1552
+    },
+    {
+      "BeginSec": 1552,
+      "Text": "那我们来看一下，就是说啊世界旅游日的一个是具体的一个情况。",
+      "TransText": "Then let's take a look, that is to say, one of the world tourism days is a specific situation.",
+      "EndSec": 1661
+    },
+    {
+      "BeginSec": 1661,
+      "Text": "嗯。",
+      "TransText": "Hmm.",
+      "EndSec": 1672
+    },
+    {
+      "BeginSec": 1672,
+      "Text": "嗯。",
+      "TransText": "Hmm.",
+      "EndSec": 1708
+    },
+    {
+      "BeginSec": 1708,
+      "Text": "是不是是具备的？",
+      "TransText": "Is it available?",
+      "EndSec": 1737
+    },
+    {
+      "BeginSec": 1737,
+      "Text": "9月27了解一下，就是这是由世界旅游组织确定的旅游工作者和旅游者的节日。",
+      "TransText": "On September 27, I would like to know that this is a festival for tourism workers and tourists determined by the World Tourism Organization.",
+      "EndSec": 1749
+    },
+    {
+      "BeginSec": 1749,
+      "Text": "对象是旅游工作者和2022年世界旅游日主题为重新思考旅游业庆祝活动。在印度尼西亚巴厘岛举办。",
+      "TransText": "The target is tourism workers and the theme of World Tourism Day 2022 is to rethink tourism celebrations. Held in Bali, Indonesia.",
+      "EndSec": 1763
+    },
+    {
+      "BeginSec": 1763,
+      "Text": "1970年9月27日，国际官方旅游联盟在墨西哥城举行的特别代表大会上，通过了世界旅游组织章程。",
+      "TransText": "On September 27, 1970,The Constitution of the World Tourism Organization was adopted by the International Official Tourism Union at its special congress in Mexico City.",
+      "EndSec": 1772
+    },
+    {
+      "BeginSec": 1772,
+      "Text": "为纪念这个日子，1979年9月，世界旅游组织第三次代表大会正式将9月27日确定为世界旅游日。",
+      "TransText": "To commemorate this day, in September 1979, the Third Congress of the World Tourism Organization officially designated September 27 as World Tourism Day.",
+      "EndSec": 1788
+    },
+    {
+      "BeginSec": 1788,
+      "Text": "举报世界旅游日庆祝活动是为了发展国际国内目标，促进更多文化艺术、经济、贸易交流，增进各国人民的相互了解，推动了社会进步。",
+      "TransText": "Reporting World Tourism Day celebrations to develop international and domestic goals,Promote more cultures,Art,Economy,Trade exchanges have promoted mutual understanding among people of all countries and promoted social progress.",
+      "EndSec": 1801
+    },
+    {
+      "BeginSec": 1801,
+      "Text": "从1980年起，世界旅游组织每年都为世界旅游日确定一个主题，各国会根据主题和要求开展相关活动。",
+      "TransText": "Since 1980,The World Tourism Organization determines a theme for World Tourism Day every year, and countries will carry out related activities according to the theme and requirements.",
+      "EndSec": 1811
+    },
+    {
+      "BeginSec": 1811,
+      "Text": "这个世界旅游日一起以来重新思考我们农业旅游业发展做出哪些努力，我们该怎样向未来称霸？",
+      "TransText": "This World Tourism Day has been rethinking what efforts we have made in the development of agricultural tourism, and how should we dominate the future?",
+      "EndSec": 1818
+    },
+    {
+      "BeginSec": 1818,
+      "Text": "呃，这就是世界旅游日。",
+      "TransText": "Uh,This is World Tourism Day.",
+      "EndSec": 1827
+    },
+    {
+      "BeginSec": 1827,
+      "Text": "所以就是说到明年的时候，大家也可以就是说关注一下，就是世界旅游日世界流入举办的一些活动。",
+      "TransText": "So by next year,You can also say that you should pay attention to some activities held by the world tourism day.",
+      "EndSec": 1832
+    },
+    {
+      "BeginSec": 1832,
+      "Text": "那其实在国内的每年的世界旅游日呢，他也会举办相应的活动的。",
+      "TransText": "In fact, on the annual World Tourism Day in China,He will also hold corresponding activities.",
+      "EndSec": 1839
+    },
+    {
+      "BeginSec": 1839,
+      "Text": "那大家知不知道除了有国外的就是国际的一个世界主流是中国呢，也有一个中国的旅游日。",
+      "TransText": "Do you know that apart from foreign countries, the mainstream of the world is China, and there is also a Chinese tourism day.",
+      "EndSec": 1841
+    },
+    {
+      "BeginSec": 1841,
+      "Text": "3个月几。",
+      "TransText": "3 months.",
+      "EndSec": 1852
+    },
+    {
+      "BeginSec": 1852,
+      "Text": "那之前学校是的，但是呃就是今天下是这么一个就是大学生的这个刘杰，那就是中国的旅游是在哪一天，大家知道不知道？",
+      "TransText": "Before that, the school was,But, uh, today's next one is Liu Jie, a college student,That is, when is China's tourism, do you know?",
+      "EndSec": 1857
+    },
+    {
+      "BeginSec": 1857,
+      "Text": "厉害。",
+      "TransText": "Great.",
+      "EndSec": 1863
+    },
+    {
+      "BeginSec": 1863,
+      "Text": "就是我们来看一下，就是说中国的有日来对比一下看看。",
+      "TransText": "Let's take a look, that is to say, China will have a comparison.",
+      "EndSec": 1897
+    },
+    {
+      "BeginSec": 1897,
+      "Text": "以上中国旅游日为什么住在研究5月19日，每年的5月19日早上3点多年前，有一位旅游达人同时过人的毅力和勇气，历时30余年，随即陷入大半了中国考察地区地貌记忆、风土人情，探寻长江源头，被后世称为犹胜。",
+      "TransText": "Why did the above China Tourism Day live on May 19?Every year, more than 3: 00 a.m. on may 19,There is a tourist expert with extraordinary perseverance and courage, which lasted more than 30 years.Then fell into most of the geomorphological memory of the Chinese survey area,Local conditions and customs,Explore the source of the Yangtze River and be called Yusheng by later generations.",
+      "EndSec": 1905
+    },
+    {
+      "BeginSec": 1905,
+      "Text": "他就是徐霞客，徐霞客独立山水，将所见所感记录下来，忠诚60余万字的徐霞客游记。",
+      "TransText": "He is Xu Xiake.Xu Xiake's independent landscape,Record what you see and feel, Xu Xiake's travel notes that are loyal to more than 600,000 words.",
+      "EndSec": 1915
+    },
+    {
+      "BeginSec": 1915,
+      "Text": "癸丑之3月晦，宁海出西门，云散日朗人意，山光俱有喜态。",
+      "TransText": "Gui Chou's 3 Moon Hui,Ninghai out of the west gate,The clouds are scattered and the day is satisfactory, and the mountains are happy.",
+      "EndSec": 1931
+    },
+    {
+      "BeginSec": 1931,
+      "Text": "这开篇中所写的魁首几千元，1613年的5月19日，2001年5月19日，浙江宁海人麻绍勤以宁海徐霞客旅游俱乐部的名义，向社会发出设立中国旅游日的倡议。",
+      "TransText": "The first few thousand yuan written in this opening chapter,On May 19, 1613,On May 19, 2001,Ma Shaoqin, a native of Ninghai, Zhejiang, in the name of Ninghai Xu Xiake Tourism Club, issued an initiative to the society to establish a China Tourism Day.",
+      "EndSec": 1934
+    },
+    {
+      "BeginSec": 1934,
+      "Text": "建议每年的5月19日定名为中国旅游日。",
+      "TransText": "It is suggested that May 19 of each year be named China Tourism Day.",
+      "EndSec": 1944
+    },
+    {
+      "BeginSec": 1944,
+      "Text": "这也正是徐霞客游记的开篇之日，说是中国旅游日的倡议，发出10年后，终于迎来了让旅游业振奋不已的好消息。",
+      "TransText": "This is also the opening day of Xu Xiake's travel notes,Said it was the initiative of China Tourism Day,Ten years after it was issued,Finally ushered in the good news that excited the tourism industry.",
+      "EndSec": 1952
+    },
+    {
+      "BeginSec": 1952,
+      "Text": "2001年3月30日，国务院常务会议通过决议，自2011年起，每年5月19日为中国旅游日。",
+      "TransText": "On 30 March 2001,The executive meeting of the State Council adopted a resolution,Since 2011, May 19 is China Tourism Day every year.",
+      "EndSec": 1965
+    },
+    {
+      "BeginSec": 1965,
+      "Text": "今年5月19日是第12个中国旅游日，主题为感悟中华文化，享受美好旅程为主会场，设在有2800年历史的山西平遥古城。",
+      "TransText": "May 19 this year is the 12th China Tourism Day,The theme is to understand Chinese culture.Enjoy a wonderful journey as the main venue, located in the 2800-year-old ancient city of Pingyao, Shanxi.",
+      "EndSec": 1969
+    },
+    {
+      "BeginSec": 1969,
+      "Text": "因受疫情影响，主会场活动12年来首次以线上形式举办。",
+      "TransText": "Due to the impact of the epidemic, the main venue event was held online for the first time in 12 years.",
+      "EndSec": 1976
+    },
+    {
+      "BeginSec": 1976,
+      "Text": "大家可以通过我们的线上直播，一同感受平遥古城节日的盛况。",
+      "TransText": "Everyone can experience the grand occasion of Pingyao ancient city festival through our online live broadcast.",
+      "EndSec": 1978
+    },
+    {
+      "BeginSec": 1978,
+      "Text": "数千下的惠民措施，千万不要拖。",
+      "TransText": "Thousands of measures to benefit the people must not be delayed.",
+      "EndSec": 1985
+    },
+    {
+      "BeginSec": 1985,
+      "Text": "孙召航已要求选择合适的时间，为自己心仪的内力D开启你的完美女人吗？",
+      "TransText": "Sun Zhaohang has asked to choose the right time to open your perfect woman for his favorite internal force D?",
+      "EndSec": 1990
+    },
+    {
+      "BeginSec": 1990,
+      "Text": "就是中国旅游日和世界6日还是不一样的。",
+      "TransText": "Even China Tourism Day is different from World 6.",
+      "EndSec": 1996
+    },
+    {
+      "BeginSec": 1996,
+      "Text": "就是刚刚我同学说的话，大约宇大学生旅游节，他也不是呃，一会事。",
+      "TransText": "Just what my classmates said,About the Yu University Tourism Festival, he's not, uh, for a while.",
+      "EndSec": 2021
+    },
+    {
+      "BeginSec": 2021,
+      "Text": "那现在大家清楚了，就是说为什么中国的这个呃中国旅游日会定在5月19日，因为是徐霞客游记的开篇写的就是呃魁人3年3月那个就是当今的，就是说我们说的是公立的这种5月19日。",
+      "TransText": "Now that everyone knows,That's why this, uh, China Travel Day in China is scheduled for May 19,Because it is the beginning of Xu Xiake's travel notes that the third month of the third year of the Kui people is today, that is to say, we are talking about the public May 19.",
+      "EndSec": 2036
+    },
+    {
+      "BeginSec": 2036,
+      "Text": "所以呢为了纪念徐下课，就是我们把这个中国的旅游日就定在5月19日，然后每年的5月19日这一天哪，各地哪都会举办这个不同的这个特色的旅游活动。",
+      "TransText": "So to commemorate Xu's class,It is we who set this Chinese travel day on May 19.Then every year on the 19th of May, this tourism activity with different characteristics will be held everywhere.",
+      "EndSec": 2038
+    },
+    {
+      "BeginSec": 2038,
+      "Text": "大家明年的时候到时候就关注一下。",
+      "TransText": "Everyone will pay attention to it next year.",
+      "EndSec": 2048
+    },
+    {
+      "BeginSec": 2048,
+      "Text": "那我们看到就是说世界留日呢，就是每年的这个联合国世界旅游组织呢都会设定一个主题。",
+      "TransText": "What we see is that the world stays in Japan, that is, the United Nations World Tourism Organization sets a theme every year.",
+      "EndSec": 2053
+    },
+    {
+      "BeginSec": 2053,
+      "Text": "比方它最开始的这个80年的这个主题就是旅游业的贡献。",
+      "TransText": "For example, the theme of its first 80 years is the contribution of tourism.",
+      "EndSec": 2056
+    },
+    {
+      "BeginSec": 2056,
+      "Text": "那文化遗产的保护与不同文化之间的相互理解。",
+      "TransText": "The protection of cultural heritage and the mutual understanding between different cultures.",
+      "EndSec": 2065
+    },
+    {
+      "BeginSec": 2065,
+      "Text": "比方说到这个89年，我们他的定义的这个当时是给流入的主题是旅行者的自由活动创造了一个共同的世界。",
+      "TransText": "For example, by the year 89,The theme of our definition at that time was to create a common world for the free activities of travelers.",
+      "EndSec": 2068
+    },
+    {
+      "BeginSec": 2068,
+      "Text": "但世界旅游日呢，他的两个主体为了纪念谁。",
+      "TransText": "But what about World Tourism Day, whose two subjects commemorate.",
+      "EndSec": 2090
+    },
+    {
+      "BeginSec": 2090,
+      "Text": "为了纪念呃，就是这个节日是谁，刚刚有介绍，不是就是世界旅游日，还有呃刘从业者，这是世界旅游日，他定的是为什么这世界领入是旅游者或者从业者的节日。",
+      "TransText": "In memory of, uh,Who is this festival?There was an introduction just now,Either world tourism day,and er, liu practitioners,This is World Tourism Day. He decided why the world is a holiday for tourists or practitioners.",
+      "EndSec": 2101
+    },
+    {
+      "BeginSec": 2101,
+      "Text": "那到90年代的像他世界流呃组织哪还定义了这个像比90年代他们定的这个主题就是旅游。",
+      "TransText": "In the 1990s, the world like him, er, defined this theme like tourism than in the 1990s.",
+      "EndSec": 2107
+    },
+    {
+      "BeginSec": 2107,
+      "Text": "一个还未被完全认识的产业是一个有待开发的这种服务。",
+      "TransText": "An industry that has not been fully recognized is a service to be developed.",
+      "EndSec": 2114
+    },
+    {
+      "BeginSec": 2114,
+      "Text": "呃，包括到99年的时候，他定义了旅游为千年，就是新鲜，先保护世界遗产。",
+      "TransText": "Uh, including by '99,He defined tourism as a millennium,Is fresh, first protect the world heritage.",
+      "EndSec": 2120
+    },
+    {
+      "BeginSec": 2120,
+      "Text": "那么他主要是注重这种文化的保护啊，文化的传承，还有比如资源的开发。",
+      "TransText": "So he focuses mainly on the protection of this culture,The inheritance of culture, as well as the development of resources.",
+      "EndSec": 2129
+    },
+    {
+      "BeginSec": 2129,
+      "Text": "那我们从头还有主题可以看出来，它聚焦的都是这样的一些点，包括像2021年呢他的这个旅游的促进包容性增长。",
+      "TransText": "Then we can see the theme from the beginning.It focuses on such points, including the promotion of inclusive growth in tourism like 2021.",
+      "EndSec": 2143
+    },
+    {
+      "BeginSec": 2143,
+      "Text": "还有由于乡村，这就是我们刚才说的，他们个个游就是点评的问题，就是如促进乡村纽约的发展，促进乡村的发展可以带动相关地区的经济经济，然后带动相关地区有脱贫。",
+      "TransText": "And because of the countryside,This is what we just said.All of them travel is a matter of comment.It is like promoting the development of rural new york,Promoting the development of villages can drive the economy of the relevant areas, and then drive the relevant areas out of poverty.",
+      "EndSec": 2149
+    },
+    {
+      "BeginSec": 2149,
+      "Text": "还有2014年这个快乐旅游啊，公益惠民。",
+      "TransText": "There is also a happy tour in 2014, which will benefit the people for public welfare.",
+      "EndSec": 2157
+    },
+    {
+      "BeginSec": 2157,
+      "Text": "那其实也是他更多的是聚焦的这个呃我们旅游者让我们需要有一个快乐的人，快乐的出行。",
+      "TransText": "In fact, he is also more focused on this, uh, our tourists make us need to have a happy person, happy travel.",
+      "EndSec": 2162
+    },
+    {
+      "BeginSec": 2162,
+      "Text": "还有就是说下还有有业可持续为可持续发展提供动力。",
+      "TransText": "In other words, there is also a sustainable industry to provide impetus for sustainable development.",
+      "EndSec": 2167
+    },
+    {
+      "BeginSec": 2167,
+      "Text": "这他每年的主题呢其实都和他们关注的这个议题呢是息息相关的。",
+      "TransText": "His annual theme is actually closely related to the topic they are concerned about.",
+      "EndSec": 2174
+    },
+    {
+      "BeginSec": 2174,
+      "Text": "那么中国是什么时候成为世界旅游组织的正式成员国呢？",
+      "TransText": "So when did China become a full member of the World Tourism Organization?",
+      "EndSec": 2180
+    },
+    {
+      "BeginSec": 2180,
+      "Text": "中国呢是1983年那个正式成为世界旅游组织的成员国。",
+      "TransText": "China was the member of the World Tourism Organization in 1983.",
+      "EndSec": 2196
+    },
+    {
+      "BeginSec": 2196,
+      "Text": "那么自1985年起呢，我们这个国家呢在北京、上海呀、重庆、成都啊，往往都会设立组织主会场，然后冰在全国各地的设计这个分会场，然后呢举办欢庆世界留日的这种活动。",
+      "TransText": "So since 1985,What about our country? In Beijing,Shanghai,Chongqing,Chengdu, ah,The main venue is often set up,Then ice designed this sub-venue all over the country, and then held such activities to celebrate the world's stay in Japan.",
+      "EndSec": 2201
+    },
+    {
+      "BeginSec": 2201,
+      "Text": "然后围绕当年的世界旅游日的主题呢，然后开展宣传活动。",
+      "TransText": "Then focus on the theme of World Tourism Day that year, and then carry out publicity activities.",
+      "EndSec": 2203
+    },
+    {
+      "BeginSec": 2203,
+      "Text": "你妈。",
+      "TransText": "Your mother.",
+      "EndSec": 2210
+    },
+    {
+      "BeginSec": 2210,
+      "Text": "2021年的时候呢，中文呢就成为联合国世界旅游组织的官方语言。",
+      "TransText": "In 2021, Chinese became the official language of the United Nations World Tourism Organization.",
+      "EndSec": 2216
+    },
+    {
+      "BeginSec": 2216,
+      "Text": "就是说刚才我们打开网站的时候，是可以看到这个用中文点进去，你可以选择语言。",
+      "TransText": "That is to say, when we opened the website just now,Yes, you can see this in Chinese. You can choose the language.",
+      "EndSec": 2219
+    },
+    {
+      "BeginSec": 2219,
+      "Text": "那中文呢就是其中的一个官方语言了，已经成为。",
+      "TransText": "Then Chinese is one of the official languages and has become.",
+      "EndSec": 2232
+    },
+    {
+      "BeginSec": 2232,
+      "Text": "那我们看到就是说还有一个很重要的这个协会，就是我们说联合国呢它是一个政府间的这种肿瘤组织。",
+      "TransText": "Then we see that there is a very important association, that is, we say that the United Nations is an intergovernmental tumor organization.",
+      "EndSec": 2239
+    },
+    {
+      "BeginSec": 2239,
+      "Text": "那还有一个就是非政府的旅游组织，就是非常重要，那就是世界旅行及旅游理事会WTTC。",
+      "TransText": "There is also a non-governmental tourism organization, which is very important, and that is the World Travel and Tourism Council WTTC.",
+      "EndSec": 2247
+    },
+    {
+      "BeginSec": 2247,
+      "Text": "那世界旅游及旅行理事会呢，他和世界旅游组织呢是完全不一样的。",
+      "TransText": "What about the World Tourism and Travel Council, which is completely different from the World Tourism Organization.",
+      "EndSec": 2257
+    },
+    {
+      "BeginSec": 2257,
+      "Text": "血流阻滞是官方的啊，这就是非官方的，而且它的成员呢他主要是全球旅游业商业旅领袖的论坛组组织。",
+      "TransText": "Blood flow block is official.This is unofficial, and its members are mainly the forum organization of global tourism business leaders.",
+      "EndSec": 2270
+    },
+    {
+      "BeginSec": 2270,
+      "Text": "就是说这个城这个组织的成员主要是啊是世界各国的这种大企业的国际性的炉企业的这个CEO啊，就是高层领导者参与的是用个人的。",
+      "TransText": "That is to say, the members of this organization in this city are mainly the CEO of this kind of international furnace enterprise of large enterprises from all over the world, that is, the high-level leaders participate in the use of individuals.",
+      "EndSec": 2273
+    },
+    {
+      "BeginSec": 2273,
+      "Text": "就是刚才我们介绍国际旅游的组织的分类。",
+      "TransText": "Just now we introduced the classification of international tourism organizations.",
+      "EndSec": 2277
+    },
+    {
+      "BeginSec": 2277,
+      "Text": "已经说了，他应该是个人成员的参加的。",
+      "TransText": "As already said, he should be an individual member.",
+      "EndSec": 2291
+    },
+    {
+      "BeginSec": 2291,
+      "Text": "那么搭配gtc，它的总部呢是在英国伦敦，他1990年成立，那么是唯一个代表，就是说旅游业、私营部门及其众多行业的一个全球性机构。",
+      "TransText": "Then with gtc,Its headquarters is in London, England,He was founded in 1990,So it's the only representative,That is to say, tourism, the private sector and its many industries are a global organization.",
+      "EndSec": 2301
+    },
+    {
+      "BeginSec": 2301,
+      "Text": "那么他在理事会成员呢就是来自所有地区和行业的全球领先的这个旅行和旅游公司的主席或者是首席执行官。",
+      "TransText": "So his council member is the chairman or CEO of the world's leading travel and travel company from all regions and industries.",
+      "EndSec": 2308
+    },
+    {
+      "BeginSec": 2308,
+      "Text": "就是说你只要只有你这个公你是这个公司的主题，我手一直一关，你才有资格加入这个手绘。",
+      "TransText": "That is to say, as long as you are the only one, you are the subject of this company.My hand has been closed before you are qualified to join this hand painting.",
+      "EndSec": 2322
+    },
+    {
+      "BeginSec": 2322,
+      "Text": "那么他这个理事会的成员有包括来自于像酒店呀、机场呀啊航空公司、旅游经营者，还有邮轮汽车租赁，就是旅行社等等。",
+      "TransText": "So the members of his council include those from hotels,Airports, airlines,Tour operators,There are also cruise car rentals, travel agencies and so on.",
+      "EndSec": 2330
+    },
+    {
+      "BeginSec": 2330,
+      "Text": "就是说啊包括这些机构的这些企业这种呃c eu啊，就是手机青瓜。",
+      "TransText": "That is to say, these enterprises, including these institutions, are the mobile phone cucumbers.",
+      "EndSec": 2334
+    },
+    {
+      "BeginSec": 2334,
+      "Text": "那么使他们的他为什么要组织这样的一个事情日会呢？",
+      "TransText": "So why did he organize such a day meeting?",
+      "EndSec": 2346
+    },
+    {
+      "BeginSec": 2346,
+      "Text": "就是他们希望都团结在一起，能够以一个共同的这个利益的一个相关方来去证明，来来去与这个国际机构或政府组织呢进行交谈。",
+      "TransText": "Is that they want to all unite together,To be able to come and talk to this international agency or government organization as a relevant party with a common interest.",
+      "EndSec": 2356
+    },
+    {
+      "BeginSec": 2356,
+      "Text": "目前呢就是说呃单数gcc呢有200多家，这个公司呢代表我们参加这个该理事会。",
+      "TransText": "At present, there are more than 200 odd gcc, and this company represents us in this council.",
+      "EndSec": 2362
+    },
+    {
+      "BeginSec": 2362,
+      "Text": "那么它的营业额呢就占到这个万亿美元营业额的3分之2。",
+      "TransText": "Then its turnover accounts for 2% of this trillion US dollars.",
+      "EndSec": 2370
+    },
+    {
+      "BeginSec": 2370,
+      "Text": "也就是说，世界上的3分之2与3分之2的这种营业额呢都属于这种这个理事会成员的这个公司。",
+      "TransText": "that is,2/3 and 2/3 of this turnover in the world belong to this kind of company that is a member of this board of directors.",
+      "EndSec": 2376
+    },
+    {
+      "BeginSec": 2376,
+      "Text": "那么相当于整个行业的30%都在这个啊成员这个理事会承认中。",
+      "TransText": "Then the 30% equivalent to the entire industry is recognized by this council of members.",
+      "EndSec": 2386
+    },
+    {
+      "BeginSec": 2386,
+      "Text": "那么大头tcc他的宗旨呢就是政府将旅行和旅游业呢视为重中之重。",
+      "TransText": "So the big head tcc's aim is that the government regards travel and tourism as its top priority.",
+      "EndSec": 2393
+    },
+    {
+      "BeginSec": 2393,
+      "Text": "第二个呢就是平衡经济感人呀，文化和环境的这种商业的这种平衡。",
+      "TransText": "The second one is balancing the economy,This commercial balance between culture and environment.",
+      "EndSec": 2397
+    },
+    {
+      "BeginSec": 2397,
+      "Text": "然后第三个呢就是追求这个长期的增长和繁荣。",
+      "TransText": "Then the third is to pursue this long-term growth and prosperity.",
+      "EndSec": 2410
+    },
+    {
+      "BeginSec": 2410,
+      "Text": "那么他的会员呢就是包括呃旅游和旅游行业的整个的这个范围嘛，他仍然是这个政府的政策推动的一个重要的力量。",
+      "TransText": "So his membership is the whole range of, uh, the travel and tourism industry,He is still an important force in the policy promotion of this government.",
+      "EndSec": 2417
+    },
+    {
+      "BeginSec": 2417,
+      "Text": "另外一方面呢，搭配tcc上，他也会提供一些研究报告。",
+      "TransText": "On the other hand, with tcc,He will also provide some research reports.",
+      "EndSec": 2422
+    },
+    {
+      "BeginSec": 2422,
+      "Text": "比方说他的研究呢就量化了旅游和旅游，旅行和旅游。",
+      "TransText": "For example, his research quantifies tourism and tourism, travel and tourism.",
+      "EndSec": 2429
+    },
+    {
+      "BeginSec": 2429,
+      "Text": "在这个GDP中的这种呃就业增长方面，对经济的一个直接和总体的影响。",
+      "TransText": "This, uh, employment growth in this GDP has a direct and overall impact on the economy.",
+      "EndSec": 2434
+    },
+    {
+      "BeginSec": 2434,
+      "Text": "那么有助于提高呢我们旅游行业对旅游经济的一个贡献的认识。",
+      "TransText": "Then it will help to improve our understanding of a contribution of the tourism industry to the tourism economy.",
+      "EndSec": 2445
+    },
+    {
+      "BeginSec": 2445,
+      "Text": "第二个呢，就是说他也通过这种持续的发生呢提高呢在行业中的影响力，然后去影响呢啊世界各国这个政府的决策以及国际的相关的旅游组织。",
+      "TransText": "The second is that he has increased his influence in the industry through this continuous occurrence,Then it will influence the decisions of governments around the world and relevant international tourism organizations.",
+      "EndSec": 2453
+    },
+    {
+      "BeginSec": 2453,
+      "Text": "所以呢他在世界的这种组织机构中，还有这个媒体中呢占有一个重要的地位。",
+      "TransText": "So he occupies an important position in this organization of the world, as well as in this media.",
+      "EndSec": 2460
+    },
+    {
+      "BeginSec": 2460,
+      "Text": "那么wgc c呢，他每年都会召开这个呃一系列的活动和网络研讨会。",
+      "TransText": "What about wgc c? He holds this series of activities and webinars every year.",
+      "EndSec": 2470
+    },
+    {
+      "BeginSec": 2470,
+      "Text": "那么这些在这个活动和网络研讨会上呢，他会与政府呢和同行的进行一个会面，然后提供一个分享交流的一个平台。",
+      "TransText": "So what about these at this event and webinar,He will have a meeting with the government and his peers, and then provide a platform for sharing and communication.",
+      "EndSec": 2475
+    },
+    {
+      "BeginSec": 2475,
+      "Text": "那么其实最重要的就是打tpc的全球峰会。",
+      "TransText": "In fact, the most important thing is the global summit of tpc.",
+      "EndSec": 2483
+    },
+    {
+      "BeginSec": 2483,
+      "Text": "那么呃在他的全球峰会呢，就汇集了公共和私营部门的很多的这种高级的从业者和领导者。",
+      "TransText": "So, uh, at his global summit, there are a lot of these high-level practitioners and leaders in the public and private sectors.",
+      "EndSec": 2492
+    },
+    {
+      "BeginSec": 2492,
+      "Text": "那么像包括一些国家元首啊，好政府的这种部长，企业的首席执行官等等，还有全球的这种知名知名媒体的成员等等。",
+      "TransText": "So it's like including some heads of state,Such ministers of a good government,The chief executive officer of the enterprise and so on, as well as members of this well-known media around the world and so on.",
+      "EndSec": 2498
+    },
+    {
+      "BeginSec": 2498,
+      "Text": "他们在一个公开的论坛上呢，就是共同讨论流液的这个发展的问题。",
+      "TransText": "They are discussing the development of fluid in an open forum.",
+      "EndSec": 2506
+    },
+    {
+      "BeginSec": 2506,
+      "Text": "然后他还提高了wt cz还有一个重要的作用，就是它提高了人们对旅行和旅游业的全球社会和经济的作用。",
+      "TransText": "Then he also improved wt cz. Another important role is that it improves the global social and economic role of people in travel and tourism.",
+      "EndSec": 2511
+    },
+    {
+      "BeginSec": 2511,
+      "Text": "然后吸引呢就是来自世界各地的广播和媒体的一个日极大的关注。",
+      "TransText": "Then it attracts a day of great attention from radio and media from all over the world.",
+      "EndSec": 2522
+    },
+    {
+      "BeginSec": 2522,
+      "Text": "那么还有一个重要的是这样的，就是WTPC呢，他每年会发布一个是经济影响的报告，就是旅游经济的一个影响报告。",
+      "TransText": "Then there is another important thing like this.Is WTPC,He publishes an annual report on the economic impact, which is an impact report on the tourism economy.",
+      "EndSec": 2534
+    },
+    {
+      "BeginSec": 2534,
+      "Text": "那么他制作了关于就是旅旅行和旅游行业的对全球185个国家，还有经济体和25个这个地理或经济区域的经济和就业的影响报告。",
+      "TransText": "Then he produced a report on the impact of the travel and tourism industry on the economy and employment of 185 countries, as well as economies and 25 geographical or economic regions in the world.",
+      "EndSec": 2538
+    },
+    {
+      "BeginSec": 2538,
+      "Text": "那么这个报告他是以一个牛津的经济研究院一起合作的。",
+      "TransText": "So this report is a collaboration with an Oxford Economic Research Institute.",
+      "EndSec": 2542
+    },
+    {
+      "BeginSec": 2542,
+      "Text": "那么它来帮助公共和私营部门机构呢提供证明理由。",
+      "TransText": "So it will help public and private sector institutions to provide justification.",
+      "EndSec": 2545
+    },
+    {
+      "BeginSec": 2545,
+      "Text": "业务经济带来的一个巨大价值的。",
+      "TransText": "The business economy brings a huge value.",
+      "EndSec": 2553
+    },
+    {
+      "BeginSec": 2553,
+      "Text": "然后以便呢我们那个政府的政策的制定，还有投资决策，然后来去让政府呢更多的支持这个旅游行业。",
+      "TransText": "Then in order to formulate the policies of our government,There are also investment decisions, and then let the government support the tourism industry more.",
+      "EndSec": 2560
+    },
+    {
+      "BeginSec": 2560,
+      "Text": "就是我前天是在群里发了两篇论文，就这两篇报告吧，那就是WTCC他们出的报告。",
+      "TransText": "I sent two papers in the group the day before yesterday.Just these two reports, that is WTCC's report.",
+      "EndSec": 2568
+    },
+    {
+      "BeginSec": 2568,
+      "Text": "然后像他们的研究呢就表扬一下再厅前那与旅游和旅游业。",
+      "TransText": "And then like their research, praise the re-hall front that with tourism and tourism.",
+      "EndSec": 2573
+    },
+    {
+      "BeginSec": 2573,
+      "Text": "那么他们就赞成就创造的所有工新工作岗位的4分之1。",
+      "TransText": "Then they are in favor of 1/4 of all new jobs created.",
+      "EndSec": 2582
+    },
+    {
+      "BeginSec": 2582,
+      "Text": "那么占所有就业岗位的10.3%，就是说在全球的剧院岗100个就业岗位中，有10.3个都是这个旅游来创造的。",
+      "TransText": "Then it accounts for 10. 5% of all jobs.3%,That is to say, among the 100 jobs in theater posts around the world,10.3 of them were created by this tour.",
+      "EndSec": 2593
+    },
+    {
+      "BeginSec": 2593,
+      "Text": "那么赚钱gdp的10.3%，也就说全球GTP中有10%减3，对，这种都是旅游来贡献的。",
+      "TransText": "So make money gdp 10.3%,That is to say, 10% of the global GTP is reduced by 3.Yes, this is all contributed by tourism.",
+      "EndSec": 2603
+    },
+    {
+      "BeginSec": 2603,
+      "Text": "那么余数同时呢，就是说2019年国际游客的消费们达到1.8万亿美元，就是占出口总额的6.8%。",
+      "TransText": "What about the remainder at the same time?That is to say, the consumption of international tourists will reach 1. 5% in 2019.8 trillion US dollars is 6.8% of the total exports.",
+      "EndSec": 2615
+    },
+    {
+      "BeginSec": 2615,
+      "Text": "还有就是说像WTC会做一些最新的就是年度研究，然后会发布一些新的报告。",
+      "TransText": "That is to say, WTC will do some of the latest is annual research, and then release some new reports.",
+      "EndSec": 2633
+    },
+    {
+      "BeginSec": 2633,
+      "Text": "比方说这个2020年就是下降了百分之呃47.4嘛，国内消费呢国内的加倍有增长，然后这个是31.4%，这就是呃wk cc它就是说发布的一些在他们官网上发布机的报告的这个截图。",
+      "TransText": "For example, this is a drop of 47 percent in 2020.Well,Domestic consumption has doubled,Then this is 31.4%, this is uh wk cc, which means this screenshot of some of the reports released on their official website.",
+      "EndSec": 2640
+    },
+    {
+      "BeginSec": 2640,
+      "Text": "我发给大家的是一个呃，他就是关于酒店投资的决策因素。",
+      "TransText": "I sent you a, uh,He is the decision-making factor about hotel investment.",
+      "EndSec": 2644
+    },
+    {
+      "BeginSec": 2644,
+      "Text": "第二个呢就是旅游的，一个是产生对社会产生的一个影响。",
+      "TransText": "The second is tourism, and the other is to have an impact on society.",
+      "EndSec": 2657
+    },
+    {
+      "BeginSec": 2657,
+      "Text": "这个嗯除了就是说呃这个经济影响研究之外呢，搭配tc还出版了一些呃领域的音呃，其他领域的一些研究。",
+      "TransText": "This, uh, in addition to saying, uh, this economic impact study,With tc also published some, uh, areas of sound, uh, some research in other areas.",
+      "EndSec": 2662
+    },
+    {
+      "BeginSec": 2662,
+      "Text": "像关于过度拥挤牙这个旅游税收啊，还有有政策的制定等等。",
+      "TransText": "Like the tourism tax on overcrowded teeth, there are policies and so on.",
+      "EndSec": 2668
+    },
+    {
+      "BeginSec": 2668,
+      "Text": "呃，等一下我们会谈研讨一个报告。",
+      "TransText": "Uh, we'll talk about a report later.",
+      "EndSec": 2672
+    },
+    {
+      "BeginSec": 2672,
+      "Text": "呃，我们先下课休息5分钟。",
+      "TransText": "Uh, let's take a 5-minute break from class first.",
+      "EndSec": 2975
+    },
+    {
+      "BeginSec": 2975,
+      "Text": "各位同学。",
+      "TransText": "Fellow students.",
+      "EndSec": 2977
+    },
+    {
+      "BeginSec": 2977,
+      "Text": "支持一下。",
+      "TransText": "Support it.",
+      "EndSec": 2986
+    },
+    {
+      "BeginSec": 2986,
+      "Text": "周六周六上午上课，他都比较都会比较累，对吧？其他的比较早。",
+      "TransText": "Classes are held on Saturday and Saturday morning.He's more tired, isn't he? The others are earlier.",
+      "EndSec": 2992
+    },
+    {
+      "BeginSec": 2992,
+      "Text": "这个精致一下，支持一下吧。",
+      "TransText": "This one is exquisite and supported.",
+      "EndSec": 2996
+    },
+    {
+      "BeginSec": 2996,
+      "Text": "都都比较辛苦，对吧？",
+      "TransText": "It's all hard, isn't it?",
+      "EndSec": 3004
+    },
+    {
+      "BeginSec": 3004,
+      "Text": "我也理解大家，然后能够就是说坚持中国来上课的，绝对对于我们这个专业非常非常的热爱。",
+      "TransText": "I also understand everyone, and then I can say that those who insist on coming to class in China definitely love our major very, very much.",
+      "EndSec": 3018
+    },
+    {
+      "BeginSec": 3018,
+      "Text": "这是刚才那讲这个w dtc我们来看一下F的官网。",
+      "TransText": "This is what we said just now. Let's take a look at F's official website.",
+      "EndSec": 3029
+    },
+    {
+      "BeginSec": 3029,
+      "Text": "在官网上啊，其实我们看到第一个就是我们可以找到他们自己的一些介绍啊，还有他们的一些呃新闻事件，包括他们的组组织的一些活动。",
+      "TransText": "On the official website,In fact, the first thing we saw was that we could find some of their own introductions.and some of their uh news events, including some activities organized by their group.",
+      "EndSec": 3033
+    },
+    {
+      "BeginSec": 3033,
+      "Text": "还在在这里面呢，我们可以看到他们的一个是成员。",
+      "TransText": "It's still here. We can see that one of them is a member.",
+      "EndSec": 3047
+    },
+    {
+      "BeginSec": 3047,
+      "Text": "那么在这里呢，我们就可以看到他的一些呃研究报告，比如说以及这个经济的影响啊，那我们以后想写这个论文啊，或者想写旅游方面的这些研究啊。",
+      "TransText": "So here it is,We can see some of his, uh, research reports,For example, and the impact of this economy,Then we want to write this paper in the future, or we want to write these studies on tourism.",
+      "EndSec": 3059
+    },
+    {
+      "BeginSec": 3059,
+      "Text": "那我们可以在这里可以找一些数据，比方说他这个经济影响就是对于国家和地区的对城市的嗯，还有这个假期前的桥梁，还有这个数据的可视化等等。",
+      "TransText": "Then we can find some data here.For example, his economic impact is on the country and the region to the city,There are also bridges before this holiday, visualization of this data, etc.",
+      "EndSec": 3064
+    },
+    {
+      "BeginSec": 3064,
+      "Text": "他们在这里都可以就是找找到一些我们想要的一个信息。",
+      "TransText": "They can all find some information we want here.",
+      "EndSec": 3068
+    },
+    {
+      "BeginSec": 3068,
+      "Text": "还有他的一些是呃合作的这种伙伴。",
+      "TransText": "And some of his are, uh, partners of this kind.",
+      "EndSec": 3077
+    },
+    {
+      "BeginSec": 3077,
+      "Text": "嗯，在这里呢，我刚才就是说像我的话，我就会主要看这一个方面，就是他们的一些是呃出版物。",
+      "TransText": "Well,Here it is,I just said, like I said,I will mainly look at this aspect, that is, some of them are, uh, publications.",
+      "EndSec": 3086
+    },
+    {
+      "BeginSec": 3086,
+      "Text": "像比如说他们关于这个呃自燃的这个积极的履行，还有这个员工的这种短缺呀，还有这种。",
+      "TransText": "For example, their active performance on this, uh, spontaneous combustion, and this shortage of employees, and this.",
+      "EndSec": 3107
+    },
+    {
+      "BeginSec": 3107,
+      "Text": "短租啊，以及这种呃像我给大家发的就是这种关于酒店的这种投资的一些关键的因素啊，还有这个呃旅行旅行呃旅游和旅行的对加勒比地区的这种呃前景的这个增长的影响啊等等，还有这个留的恢复啊。",
+      "TransText": "Short rent,And some of the key factors that I sent to you about this kind of investment in hotels,And the impact of this, uh, travel, uh, travel and travel on this, uh, growth in the Caribbean's prospects, and so on, and the recovery of this stay.",
+      "EndSec": 3111
+    },
+    {
+      "BeginSec": 3111,
+      "Text": "fdd在这里呢，我们可以看到各种丰富的这种忧报告。",
+      "TransText": "Fdd here, we can see a variety of this kind of worry report.",
+      "EndSec": 3133
+    },
+    {
+      "BeginSec": 3133,
+      "Text": "所以呢大家就是说以后去写东西啊，或者写毕笼啊，无论你是出国或者是你去留学啊，去做任何事情，都可以在这找一些呃相关的一些比较好的一些研究的这种呃观点，还有研究的视角哦，以后写毕业论文吧都可以从这里来找观点，找四角就是他出庭。",
+      "TransText": "So everyone means to write something later,Or write a cage,Whether you go abroad or you go to study abroad,To do anything,You can find some, uh, relevant, some better studies here, uh,There is also a research perspective.After writing graduation thesis, you can find your point of view from here. He will appear in court when looking for four corners.",
+      "EndSec": 3138
+    },
+    {
+      "BeginSec": 3138,
+      "Text": "这有报告就是说会给我们的一个选题呢提供非常好的一个参考。",
+      "TransText": "This report means that it will provide a very good reference for one of our topics.",
+      "EndSec": 3153
+    },
+    {
+      "BeginSec": 3153,
+      "Text": "嗯嗯，像我的话，我更多的会看他这个呃研究报告，就是说他发，尤其是他每年都发布，像他最新发布的就是这个是。",
+      "TransText": "Uh-huh,As I said,I'll read more of his, uh, research report,That is to say, he sends, especially he releases it every year, like this is his latest release.",
+      "EndSec": 3162
+    },
+    {
+      "BeginSec": 3162,
+      "Text": "9月21号，他最近发布就是9月27号，他就是说每个月几乎都在更新。",
+      "TransText": "On September 21,He recently released it on September 27, which means that it is updated almost every month.",
+      "EndSec": 3170
+    },
+    {
+      "BeginSec": 3170,
+      "Text": "就是说我们每隔一段时间呢就可以来看一看去有没有些自己感兴趣的这个议题呀，感兴趣的这种他的一些报告。",
+      "TransText": "That is to say, every once in a while, we can come and see if we are interested in this topic, some of his reports.",
+      "EndSec": 3176
+    },
+    {
+      "BeginSec": 3176,
+      "Text": "我们可以就是拿来学习，然后不仅是说是作为我们学习的一个主材料吧。",
+      "TransText": "We can just use it to learn, and then not only as a main material for our study.",
+      "EndSec": 3181
+    },
+    {
+      "BeginSec": 3181,
+      "Text": "我觉得尤其是对各位想出国旅行的，不是想出国这个读书的。",
+      "TransText": "I think it is especially for those who want to travel abroad, not those who want to study abroad.",
+      "EndSec": 3183
+    },
+    {
+      "BeginSec": 3183,
+      "Text": "嗯，我们的同学呢是非常有帮助的。",
+      "TransText": "Well, our classmates are very helpful.",
+      "EndSec": 3195
+    },
+    {
+      "BeginSec": 3195,
+      "Text": "嗯，我们还是回到我们的这个课程啊，这个主要的界面就是WTT呃给大家做一个简单的介绍。",
+      "TransText": "Well,Let's go back to our course. The main interface is WTT.",
+      "EndSec": 3201
+    },
+    {
+      "BeginSec": 3201,
+      "Text": "然后后续呢就是说大家课后呢可以自己呢去详细的去了解一下这个网站。",
+      "TransText": "Then the follow-up means that everyone can learn about this website in detail after class.",
+      "EndSec": 3202
+    },
+    {
+      "BeginSec": 3202,
+      "Text": "我们在国内都能打得开的。",
+      "TransText": "We can all fight at home.",
+      "EndSec": 3219
+    },
+    {
+      "BeginSec": 3219,
+      "Text": "啊，那好了，现在我们就来共同学习一下我前天发的这个文章，就是上下是的，我们那个教授呢他也跟我们讲哦，就是说爸爸我们国家为什么会选择这个。",
+      "TransText": "Ah,Well, then,Now let's learn about this article I sent the day before last.It's up and down. Yes,What about our professor? He also told us, that is to say, why did our country choose this?",
+      "EndSec": 3226
+    },
+    {
+      "BeginSec": 3226,
+      "Text": "为什么会选择我们的旅游作为一个非常重要的一个发展选择呢？",
+      "TransText": "Why do you choose our tourism as a very important development choice?",
+      "EndSec": 3228
+    },
+    {
+      "BeginSec": 3228,
+      "Text": "那教授才讲了好多，有好几个方面，对吧？",
+      "TransText": "The professor only talked a lot.There are several aspects, right?",
+      "EndSec": 3234
+    },
+    {
+      "BeginSec": 3234,
+      "Text": "那其实我觉得最重要的一点就是说那旅游给我们的社会经济产生的一些影响。",
+      "TransText": "In fact, I think the most important point is the impact that tourism has on our social economy.",
+      "EndSec": 3241
+    },
+    {
+      "BeginSec": 3241,
+      "Text": "那所以诉讼呢，很多国家哪怕这个旅游呢作为很重要的一个发展的选择，发展的选项。",
+      "TransText": "So what about litigation,In many countries, even this tourism is a very important development choice and development option.",
+      "EndSec": 3248
+    },
+    {
+      "BeginSec": 3248,
+      "Text": "那我们来看一看，那我们就是说我每次都在强调旅游的社会经济发展很重要。",
+      "TransText": "Then let's take a look, then we mean that I always emphasize the importance of social and economic development of tourism.",
+      "EndSec": 3252
+    },
+    {
+      "BeginSec": 3252,
+      "Text": "那到到底旅游对社会经济产生哪些影响呢？",
+      "TransText": "What impact does tourism have on the social economy?",
+      "EndSec": 3256
+    },
+    {
+      "BeginSec": 3256,
+      "Text": "就是我给大家发了第一篇就是说是WTCC出的一个报告。",
+      "TransText": "I sent the first report to you, that is to say, it was a report from WTCC.",
+      "EndSec": 3263
+    },
+    {
+      "BeginSec": 3263,
+      "Text": "那么里面有一些想要什么数据，还有一些解释就给我们说明了旅游。",
+      "TransText": "Then there are some data on what we want and some explanations to explain the tourism.",
+      "EndSec": 3273
+    },
+    {
+      "BeginSec": 3273,
+      "Text": "那么对社会经济产生的影响，那么这是可以让我们一个更直观、更清晰的认识来去了解我们这个行业，大家都看看吧。",
+      "TransText": "Then the socio-economic impact,So this can give us a more intuitive and clearer understanding of our industry, everyone take a look.",
+      "EndSec": 3281
+    },
+    {
+      "BeginSec": 3281,
+      "Text": "那我们再给大家10分钟的时间再去回顾一下，我等一下转来回答哈。",
+      "TransText": "Then let's give you another 10 minutes to review it again, and I'll turn to answer later.",
+      "EndSec": 3292
+    },
+    {
+      "BeginSec": 3292,
+      "Text": "老师也来学习啊，老公都做了笔记的。",
+      "TransText": "The teacher also came to study. My husband took notes.",
+      "EndSec": 3337
+    },
+    {
+      "BeginSec": 3337,
+      "Text": "80呃到9.05哈。",
+      "TransText": "80, uh, to 9.05.",
+      "EndSec": 3555
+    },
+    {
+      "BeginSec": 3555,
+      "Text": "这个报告从五个方面讲述，就是留给社会的一个影响。",
+      "TransText": "This report tells from five aspects, which is an impact left to society.",
+      "EndSec": 3835
+    },
+    {
+      "BeginSec": 3835,
+      "Text": "hello, 各位同学，我们时间到了。",
+      "TransText": "Hello, fellow students, our time is up.",
+      "EndSec": 3846
+    },
+    {
+      "BeginSec": 3846,
+      "Text": "就是我们上午都比较这个辛苦艾，你这个有没有有没有人喜欢看这个北门，那那边坐电梯啊，坡天桥。",
+      "TransText": "It's just that we all work harder in the morning.Do you have anyone who likes to look at this north gate and take the elevator over there, slope overpass?",
+      "EndSec": 3861
+    },
+    {
+      "BeginSec": 3861,
+      "Text": "不经常画，最近你们不要在那里过了，我早上从那里来的包包，就是经历经过一个被困在电梯里十几分钟，我就我也太我早上上还是不会迟到。",
+      "TransText": "Not often painted,Don't you go there recently,The bag I got from there in the morning,Even after being trapped in the elevator for more than ten minutes, I am too late for the morning.",
+      "EndSec": 3864
+    },
+    {
+      "BeginSec": 3864,
+      "Text": "就是呃本文那这个人行天桥吗？",
+      "TransText": "Is that, uh, this article, this pedestrian bridge?",
+      "EndSec": 3875
+    },
+    {
+      "BeginSec": 3875,
+      "Text": "坐电梯的时候，就是我今天早上坐电梯，然后我说我在那个对面，从对面过来睡觉，就对面马路过来这里，然后走天桥嘛。",
+      "TransText": "When taking the elevator,I took the elevator this morning.Then I said I was across the street from that,Come and sleep from the opposite side,Just across the road, come here and take the overpass.",
+      "EndSec": 3881
+    },
+    {
+      "BeginSec": 3881,
+      "Text": "然后今年您之后就是定期呃上到二楼之后，上到天桥那里就打不开门了。",
+      "TransText": "Then after this year, you will be able to open the door when you go up to the overpass on a regular basis.",
+      "EndSec": 3891
+    },
+    {
+      "BeginSec": 3891,
+      "Text": "然后我们被困在里面将近20分钟，然后我就赶紧给那个求助嘛，打电话，然后报那个里面自己一按按钮吗？",
+      "TransText": "Then we were trapped inside for nearly 20 minutes.Then I quickly asked the one for help.Make a phone call and report it to yourself. Do you press the button?",
+      "EndSec": 3902
+    },
+    {
+      "BeginSec": 3902,
+      "Text": "那个人去修啊，过了10 10来开Q哦，就是维修人员去修的时候，然后他就一直弄休嘛，然后导致那个电他在修理过程中导致个电梯，我一直往下降。",
+      "TransText": "The man went to fix it.After 10 10 to open Q oh,When the maintenance personnel go to repair it,Then he kept taking a break.Then it led to the electricity he caused an elevator during the repair process, and I kept going down.",
+      "EndSec": 3909
+    },
+    {
+      "BeginSec": 3909,
+      "Text": "然后这样婷酱庭就是非常的超级的这个危险，大家数据就不要做那个电梯了。",
+      "TransText": "Then this way, Ting Jiang Ting is very super dangerous, so don't be the elevator.",
+      "EndSec": 3915
+    },
+    {
+      "BeginSec": 3915,
+      "Text": "特别危险，就是我早上一直担心我一个困在那里，不能来上。",
+      "TransText": "Particularly dangerous,Is that I have been worried about being trapped there all morning.Can't come up.",
+      "EndSec": 3925
+    },
+    {
+      "BeginSec": 3925,
+      "Text": "好，所以大家最近都不要做那个直梯了，就是走那个扶梯或者走楼梯，不要做那个直梯了，特别危险。",
+      "TransText": "Okay, well,So everyone should stop making that ladder recently.Just take the escalator or the stairs, don't be the straight ladder, it's especially dangerous.",
+      "EndSec": 3930
+    },
+    {
+      "BeginSec": 3930,
+      "Text": "给我下播一声冷汗，一直困在里面出不来。",
+      "TransText": "Give me a cold sweat, always trapped inside can't get out.",
+      "EndSec": 3934
+    },
+    {
+      "BeginSec": 3934,
+      "Text": "所以大家最近不要去做那里的电梯了。",
+      "TransText": "So let's not do the elevator there recently.",
+      "EndSec": 3950
+    },
+    {
+      "BeginSec": 3950,
+      "Text": "那好，我们言归正传，就是说我们开始今天的这个讨论，嗯，我们这个分好几个部分，但是它主要是讲了五个方面。",
+      "TransText": "Well, then,Let's get back to business,That is to say, we begin today's discussion.Well,We have several parts, but it mainly talks about five aspects.",
+      "EndSec": 3958
+    },
+    {
+      "BeginSec": 3958,
+      "Text": "对我们这个呃由的一个是理想来，你给我们说一说，就是关于这引言部分，他主要介绍了什么。",
+      "TransText": "For us, this, uh, is ideal,You tell us about this introduction, what he mainly introduces.",
+      "EndSec": 3971
+    },
+    {
+      "BeginSec": 3971,
+      "Text": "是这个。",
+      "TransText": "It's this.",
+      "EndSec": 3974
+    },
+    {
+      "BeginSec": 3974,
+      "Text": "9年。",
+      "TransText": "9 years.",
+      "EndSec": 3982
+    },
+    {
+      "BeginSec": 3982,
+      "Text": "连续第9年日高于这个呃秦国全球经济的增长。",
+      "TransText": "The 9th consecutive year is higher than the global economic growth of the state of Qin.",
+      "EndSec": 4003
+    },
+    {
+      "BeginSec": 4003,
+      "Text": "对他说在全世界创造的所有新就业导航中呢，有4分之1的岗位都是柳叶创造的。",
+      "TransText": "To him, of all the new jobs created in the world,One-fourth of the posts were created by Willow Leaf.",
+      "EndSec": 4011
+    },
+    {
+      "BeginSec": 4011,
+      "Text": "所以各位同学以后有可能就是说也是说很有可能在我们铝业从事这个呃工作的。你不是直。",
+      "TransText": "Therefore, it is possible for all students to do this job in our aluminum industry in the future. You're not straight.",
+      "EndSec": 4017
+    },
+    {
+      "BeginSec": 4017,
+      "Text": "有可能会间接的业工作。",
+      "TransText": "It is possible to work indirectly.",
+      "EndSec": 4050
+    },
+    {
+      "BeginSec": 4050,
+      "Text": "提供了住房，教育教育，还提供了多元化和的归属感，就业和机会给各行各业的人都提供了机会，包括了少数群体，年轻人嗯呃旅游业。",
+      "TransText": "provided housing,Education Education,It also provides diversity and a sense of belonging.Employment and opportunities provide opportunities for people from all walks of life.Including minority groups, young people, uh, tourism.",
+      "EndSec": 4055
+    },
+    {
+      "BeginSec": 4055,
+      "Text": "可以保护和增加。",
+      "TransText": "Can protect and increase.",
+      "EndSec": 4068
+    },
+    {
+      "BeginSec": 4068,
+      "Text": "社区。",
+      "TransText": "The community.",
+      "EndSec": 4073
+    },
+    {
+      "BeginSec": 4073,
+      "Text": "佳佳汇报哦，保护当地的文化。",
+      "TransText": "Jia Jia reports oh, protect the local culture.",
+      "EndSec": 4087
+    },
+    {
+      "BeginSec": 4087,
+      "Text": "新换就60下降了很多的新的工作的机会了。丢失还有原告。",
+      "TransText": "The new change has dropped a lot of new job opportunities by 60. Lost and accuser.",
+      "EndSec": 4091
+    },
+    {
+      "BeginSec": 4091,
+      "Text": "收到的冲击。",
+      "TransText": "The shock received.",
+      "EndSec": 4096
+    },
+    {
+      "BeginSec": 4096,
+      "Text": "影响社会的。",
+      "TransText": "that affect society.",
+      "EndSec": 4111
+    },
+    {
+      "BeginSec": 4111,
+      "Text": "对，就是在引言中呢，这个请坐，他首先就给我们讲，就是说乳液呢他是连续第九个年呢，在19年的时候，连续第九年他的经济增长呢是高于全球的这种经济增长的。",
+      "TransText": "Right,In the introduction,Please sit down on this one.He told us first,That is to say, lotion is the ninth year in a row.In 19 years, for the ninth consecutive year, his economic growth was higher than that of the world.",
+      "EndSec": 4120
+    },
+    {
+      "BeginSec": 4120,
+      "Text": "第二个呢，刘烨创造了就是在全世界创造的所有新的就业岗位中呢，有4分之1了都是柳叶的创造的。",
+      "TransText": "And the second one,Of all the new jobs created by Liu Ye in the world, one-fourth were created by willow leaves.",
+      "EndSec": 4129
+    },
+    {
+      "BeginSec": 4129,
+      "Text": "那么第二个关键词呢就是说留留那个旅旅行和旅游呢，他就强调这种包容性增长和这个多样性的发展。",
+      "TransText": "So the second key word is to keep the travel and tourism. He emphasizes this inclusive growth and this diversity development.",
+      "EndSec": 4142
+    },
+    {
+      "BeginSec": 4142,
+      "Text": "那呃他就为来自各行各业的这种嗯包括我们少数民族啊这种青年，还有这个妇女呢，就是提供了很多人就业机会。",
+      "TransText": "Well, he's for young people from all walks of life, including our minorities,And this woman, who provides a lot of employment opportunities.",
+      "EndSec": 4145
+    },
+    {
+      "BeginSec": 4145,
+      "Text": "这也许他包容性增长了很重要的一个方面。",
+      "TransText": "This may be an important aspect of his inclusiveness.",
+      "EndSec": 4158
+    },
+    {
+      "BeginSec": 4158,
+      "Text": "那么他们进一步的保护弱势群体，还有就是我们的所在的社区，然后是更多的人参与其中的，然后促进了创新来保护当地的文化遗产。",
+      "TransText": "Then they further protect the vulnerable.And the community we're in,And then there's more people involved,Innovation was then promoted to protect the local cultural heritage.",
+      "EndSec": 4163
+    },
+    {
+      "BeginSec": 4163,
+      "Text": "啊，你给大家说说第二个社会进步的加速器，为什么说它的社会进步的加速器。",
+      "TransText": "Ah,You tell us about the second accelerator of social progress and why it is the accelerator of social progress.",
+      "EndSec": 4173
+    },
+    {
+      "BeginSec": 4173,
+      "Text": "自己一个。",
+      "TransText": "One by yourself.",
+      "EndSec": 4179
+    },
+    {
+      "BeginSec": 4179,
+      "Text": "听清指数规定。",
+      "TransText": "Listen to the index regulations.",
+      "EndSec": 4186
+    },
+    {
+      "BeginSec": 4186,
+      "Text": "这样的50个社会。",
+      "TransText": "50 such societies.",
+      "EndSec": 4191
+    },
+    {
+      "BeginSec": 4191,
+      "Text": "你记得你寄的是通过。",
+      "TransText": "You remember you sent it through.",
+      "EndSec": 4209
+    },
+    {
+      "BeginSec": 4209,
+      "Text": "就是这三件是这样的意思。",
+      "TransText": "These three things mean this.",
+      "EndSec": 4214
+    },
+    {
+      "BeginSec": 4214,
+      "Text": "那么这一段呢，它主要是这样说，比如说社会进步的加速器。",
+      "TransText": "What about this paragraph?It mainly says this, such as the accelerator of social progress.",
+      "EndSec": 4219
+    },
+    {
+      "BeginSec": 4219,
+      "Text": "那么这其中的一个重要的内容呢就是呃社会进步只做SPI。",
+      "TransText": "So one of the important contents of this is that social progress only does SPI.",
+      "EndSec": 4228
+    },
+    {
+      "BeginSec": 4228,
+      "Text": "那他是通过就是社会进步指数，他来句就是测量嘛，综合的测量我们的生活质量。",
+      "TransText": "Then he passed the Social Progress Index.His sentence is to measure, comprehensively measure our quality of life.",
+      "EndSec": 4236
+    },
+    {
+      "BeginSec": 4236,
+      "Text": "还有就是通过这个生活质量，还有这个独立的经济指标呢，来自中国的理解社会这个进步嘛。",
+      "TransText": "And through this quality of life,There is also this independent economic indicator, which comes from China's understanding of social progress.",
+      "EndSec": 4248
+    },
+    {
+      "BeginSec": 4248,
+      "Text": "那他具体来说呢，他就测测量包括吧就是说社会进步三个维度，共50个指标的这样的一个内容，他是三个维度。",
+      "TransText": "What about him, specifically,He measured the three dimensions of social progress,A total of 50 indicators of such a content, he is three dimensions.",
+      "EndSec": 4254
+    },
+    {
+      "BeginSec": 4254,
+      "Text": "这三个维度呢包含50个指标，三个维度，50个指标。",
+      "TransText": "These three dimensions contain 50 indicators.Three dimensions, 50 indicators.",
+      "EndSec": 4268
+    },
+    {
+      "BeginSec": 4268,
+      "Text": "那么它最重要的基础呢就是呃幸福感，就是他还是给测量的基础理论的基础就是幸福感病是不是在建议中是办公幸福感吧。",
+      "TransText": "So the most important foundation of it is, uh, happiness,Even if he still gives the basis of the basic theory of measurement, it is whether happiness disease is office happiness in the proposal.",
+      "EndSec": 4274
+    },
+    {
+      "BeginSec": 4274,
+      "Text": "对他就是基于他的理论了，就是幸福感了，就测量我们的稍微进步指数。",
+      "TransText": "Yes, he is based on his theory.It is happiness, and we measure our slight progress index.",
+      "EndSec": 4290
+    },
+    {
+      "BeginSec": 4290,
+      "Text": "那那么美国国家的得分呢，还是从1到100之间，就是他在测量的这个分数呢是在0到100之间，然后平均就是得分呢就是呃64点2分。",
+      "TransText": "What about the score of the United States?Or between 1 and 100,The score he is measuring is between 0 and 100, and then the average score is, uh, 6.4.",
+      "EndSec": 4296
+    },
+    {
+      "BeginSec": 4296,
+      "Text": "那么而是就是说这个SPR得得分的增加呀，就是表明了社会进步。",
+      "TransText": "So it means that the increase in SPR scores indicates social progress.",
+      "EndSec": 4301
+    },
+    {
+      "BeginSec": 4301,
+      "Text": "随着实质的推移呢而提高，这就是SPI。",
+      "TransText": "This is SPI.",
+      "EndSec": 4314
+    },
+    {
+      "BeginSec": 4314,
+      "Text": "第二个呢就是说嗯他讲到了旅游和呃旅游呢对gdp和就业的贡献呢呃对社会进步指数得分了有积极显著的影响。",
+      "TransText": "The second one is that he talked about tourism and, uh, the contribution of tourism to gdp and employment, uh, the social progress index score has a positive and significant impact.",
+      "EndSec": 4320
+    },
+    {
+      "BeginSec": 4320,
+      "Text": "就是说我们旅游业的发展就是能够促进GDP的增长。",
+      "TransText": "That is to say, the development of our tourism industry can promote the growth of GDP.",
+      "EndSec": 4323
+    },
+    {
+      "BeginSec": 4323,
+      "Text": "我们勾兑军啊，我们的就业呢产生贡献。",
+      "TransText": "We blend troops, and our employment contributes.",
+      "EndSec": 4333
+    },
+    {
+      "BeginSec": 4333,
+      "Text": "那相应的呢，我们的这些贡献呢也会对社会进步指数呢进一步的产生影响，有积极的影响就是是正向的。",
+      "TransText": "And what about the corresponding,These contributions will also have a further impact on the social progress index, and the positive impact is positive.",
+      "EndSec": 4340
+    },
+    {
+      "BeginSec": 4340,
+      "Text": "就是说比如发展我们的社会进步指数呢也会进一步的提高，这是一个。第二问这个意思。",
+      "TransText": "That is to say, for example, the development of our social progress index will further improve. This is one. The second question means this.",
+      "EndSec": 4348
+    },
+    {
+      "BeginSec": 4348,
+      "Text": "那么他同时意味着留意的增长呢，可以继续创造机会和社区福利。",
+      "TransText": "So what about the growth that he also means to pay attention to, can continue to create opportunities and community welfare.",
+      "EndSec": 4356
+    },
+    {
+      "BeginSec": 4356,
+      "Text": "这就是说社会进步的加速器呢，主要是北京在这两方面。",
+      "TransText": "This means that the accelerator of social progress is mainly Beijing in these two aspects.",
+      "EndSec": 4366
+    },
+    {
+      "BeginSec": 4366,
+      "Text": "其中呢还讲到了一个很重要的方面是涓滴效应，就是催收大战，这个是一个专有名词，叫涓滴效应。",
+      "TransText": "One of the most important aspects of this is the trickle-down effect,Is the collection war,This is a proper noun called the trickle-down effect.",
+      "EndSec": 4391
+    },
+    {
+      "BeginSec": 4391,
+      "Text": "他是指这个经济发展过程中呢，就是说并不给这个贫困阶层或者弱势群群体，或者是一些特别贫困的地区呢啊优待，而是由优先发展起来的群体呢或地区呢通过消费呀、就业等方面会旗这个屏幕地区，然后带领我们屏幕或者是弱势群体的发展。",
+      "TransText": "He means that in the process of economic development,That is to say, it is not for this poor or vulnerable group,Or some particularly poor areas,But by the priority of the development of groups or regions through consumption ah,Employment and other aspects will flag this screen area and then lead us to the development of screens or vulnerable groups.",
+      "EndSec": 4393
+    },
+    {
+      "BeginSec": 4393,
+      "Text": "然后实现这个共同富裕。",
+      "TransText": "Then realize this common prosperity.",
+      "EndSec": 4408
+    },
+    {
+      "BeginSec": 4408,
+      "Text": "那么比如说呃政府啊，我们的财政可以通过补贴啊，今天啊就是让大企业呢，然后东国大企业的流入，小企业和消费者支持，然后更好的促进我们的经济增长。",
+      "TransText": "So, for example, the government,Our finances can be subsidized.Today is to let big companies,Then the inflow of large Eastern enterprises,Small businesses and consumers support and then better promote our economic growth.",
+      "EndSec": 4414
+    },
+    {
+      "BeginSec": 4414,
+      "Text": "就是目前呢我们国家这是说呃促进西部大开发呀，或者中午结局一样的。",
+      "TransText": "At present, our country is saying, uh, to promote the development of the western region,Or the noon ending is the same.",
+      "EndSec": 4421
+    },
+    {
+      "BeginSec": 4421,
+      "Text": "呃，通过先富带后富啊，时间共同富裕的道理是一样的，这就是一个涓滴效应。旅游中的。",
+      "TransText": "Uh,By getting rich first and getting rich later,The principle of common prosperity of time is the same, this is a trickle-down effect. In tourism.",
+      "EndSec": 4425
+    },
+    {
+      "BeginSec": 4425,
+      "Text": "哎，你给大家解释一下第一个。",
+      "TransText": "Hey, you explain the first one to everyone.",
+      "EndSec": 4429
+    },
+    {
+      "BeginSec": 4429,
+      "Text": "抱抱。",
+      "TransText": "Hug.",
+      "EndSec": 4444
+    },
+    {
+      "BeginSec": 4444,
+      "Text": "呃，周。",
+      "TransText": "Uh, Cho.",
+      "EndSec": 4452
+    },
+    {
+      "BeginSec": 4452,
+      "Text": "就是那么在这样子生态上面。",
+      "TransText": "That's how it's ecological.",
+      "EndSec": 4456
+    },
+    {
+      "BeginSec": 4456,
+      "Text": "柳叶。",
+      "TransText": "Willow leaves.",
+      "EndSec": 4460
+    },
+    {
+      "BeginSec": 4460,
+      "Text": "呃，首先第一个就是在进行上面的游戏。",
+      "TransText": "Well, first of all, the first one is playing the above game.",
+      "EndSec": 4465
+    },
+    {
+      "BeginSec": 4465,
+      "Text": "那女性是加拿大在这个舅舅五四。对，是的。",
+      "TransText": "That woman is Canada in this uncle May 4th. Right, yeah.",
+      "EndSec": 4471
+    },
+    {
+      "BeginSec": 4471,
+      "Text": "呃，进行一个明天上面的一个就是。",
+      "TransText": "Uh, do one tomorrow. The one above is.",
+      "EndSec": 4474
+    },
+    {
+      "BeginSec": 4474,
+      "Text": "多就是。",
+      "TransText": "More is.",
+      "EndSec": 4478
+    },
+    {
+      "BeginSec": 4478,
+      "Text": "其他的。",
+      "TransText": "Other.",
+      "EndSec": 4485
+    },
+    {
+      "BeginSec": 4485,
+      "Text": "从事实的问题。对。",
+      "TransText": "From the facts. Right.",
+      "EndSec": 4492
+    },
+    {
+      "BeginSec": 4492,
+      "Text": "提升到了里面从事。",
+      "TransText": "Ascend to engage in.",
+      "EndSec": 4501
+    },
+    {
+      "BeginSec": 4501,
+      "Text": "你好，我在的人都会一起就更加的。",
+      "TransText": "Hello, everyone I am here will be even more together.",
+      "EndSec": 4506
+    },
+    {
+      "BeginSec": 4506,
+      "Text": "更加东方不？",
+      "TransText": "Is it more eastern?",
+      "EndSec": 4518
+    },
+    {
+      "BeginSec": 4518,
+      "Text": "这些哦非常好，来，你给大家介绍一下社区丰富的推动者，他怎么能成为是具丰富的推动着呢？",
+      "TransText": "These are very good.Come on,You can introduce to you the rich promoter of the community. How can he become a rich promoter?",
+      "EndSec": 4520
+    },
+    {
+      "BeginSec": 4520,
+      "Text": "旅游。",
+      "TransText": "Tourism.",
+      "EndSec": 4533
+    },
+    {
+      "BeginSec": 4533,
+      "Text": "反正就是一些其他行业来说，他的成长速度要更快一点。",
+      "TransText": "Anyway, for some other industries, his growth rate is faster.",
+      "EndSec": 4541
+    },
+    {
+      "BeginSec": 4541,
+      "Text": "跟大神三山社区工作人员，社区人民的经济，然后。",
+      "TransText": "With the great god Sanshan community staff, the community people's economy, and then.",
+      "EndSec": 4561
+    },
+    {
+      "BeginSec": 4561,
+      "Text": "他不想其他的人，就是两天数据，基本上这个意思更多的他举了一些例子，比方说嗯东南亚呀这一地区，还有这个包括我们桌，还有一个是呃小岛的这种发展指数嘛。",
+      "TransText": "He didn't want other people,Is two days of data,Basically, this means more. He gave some examples.For example, in Southeast Asia, there is this area, including our table, and there is also a development index of the island.",
+      "EndSec": 4566
+    },
+    {
+      "BeginSec": 4566,
+      "Text": "那你得说一下你的理解。",
+      "TransText": "Then you have to say your understanding.",
+      "EndSec": 4574
+    },
+    {
+      "BeginSec": 4574,
+      "Text": "这个创角啊就是创造这个机会唱的。",
+      "TransText": "This creator created this opportunity to sing.",
+      "EndSec": 4578
+    },
+    {
+      "BeginSec": 4578,
+      "Text": "国际。",
+      "TransText": "International.",
+      "EndSec": 4592
+    },
+    {
+      "BeginSec": 4592,
+      "Text": "所有岗位中其实占到一个比例大概是按10%左右。",
+      "TransText": "In fact, the proportion of all posts is about 10%.",
+      "EndSec": 4597
+    },
+    {
+      "BeginSec": 4597,
+      "Text": "嗯，在很多国家嗯。",
+      "TransText": "Well, in many countries, um.",
+      "EndSec": 4599
+    },
+    {
+      "BeginSec": 4599,
+      "Text": "手机。",
+      "TransText": "Cell phone.",
+      "EndSec": 4604
+    },
+    {
+      "BeginSec": 4604,
+      "Text": "但是嗯他带动的主要是一个国际消费吧就是。",
+      "TransText": "But well, what he drives is mainly an international consumption.",
+      "EndSec": 4611
+    },
+    {
+      "BeginSec": 4611,
+      "Text": "他的一个销嗯就是有一个消费。",
+      "TransText": "One of his sales is that he has a consumption.",
+      "EndSec": 4626
+    },
+    {
+      "BeginSec": 4626,
+      "Text": "呃，对，基本这个意思就是说呃，旅游呢就是是我们这个创造就业机会的一个主要的驱动者。",
+      "TransText": "Uh,Right,The basic meaning is that, uh, tourism is a major driver of job creation.",
+      "EndSec": 4642
+    },
+    {
+      "BeginSec": 4642,
+      "Text": "那么尤其是在我们说有一个就是说最重要的一个点，他说从全球来看，就是说每三四个这个国际旅行者到一个目的地就会创造一个新的就业岗位。",
+      "TransText": "So especially when we say that there is one and the most important point,He said that from a global perspective, it means that every three or four international travelers will create a new job in a destination.",
+      "EndSec": 4653
+    },
+    {
+      "BeginSec": 4653,
+      "Text": "也就是说嗯假如说外国人到我们有34个外国人到我们国内旅游的话，我们国内呢就会创造一个是呃新的就业岗位。",
+      "TransText": "That is to say, well, if we have 34 foreigners traveling to our country, we will create a new job in our country.",
+      "EndSec": 4662
+    },
+    {
+      "BeginSec": 4662,
+      "Text": "像2018年的这个数据就显示呢，中国有10%的就业人口呢，就是说直接和间接从事这个我们的旅游产业。",
+      "TransText": "As shown in 2018,China has 10% employed population, that is to say, directly and indirectly engaged in our tourism industry.",
+      "EndSec": 4667
+    },
+    {
+      "BeginSec": 4667,
+      "Text": "那你给大家讲一讲，就是说创新创业的催化剂。",
+      "TransText": "Then you can tell us about it, that is, the catalyst for innovation and entrepreneurship.",
+      "EndSec": 4678
+    },
+    {
+      "BeginSec": 4678,
+      "Text": "等于说三不仅有助于支持当地企业创业。",
+      "TransText": "It is equivalent to saying that three is not only helpful to support local enterprises to start their own businesses.",
+      "EndSec": 4686
+    },
+    {
+      "BeginSec": 4686,
+      "Text": "然后中小企这所有业务部门的80%。",
+      "TransText": "Then the 80% of all business departments of SMEs.",
+      "EndSec": 4693
+    },
+    {
+      "BeginSec": 4693,
+      "Text": "影响是非常严重的，非常需要政府的支持，继续宣传一下。",
+      "TransText": "The impact is very serious, and the support of the government is very needed. Continue to publicize it.",
+      "EndSec": 4697
+    },
+    {
+      "BeginSec": 4697,
+      "Text": "就比如说在美国的时候。",
+      "TransText": "For example, in the United States.",
+      "EndSec": 4707
+    },
+    {
+      "BeginSec": 4707,
+      "Text": "然后没有政策支撑的，无法升。",
+      "TransText": "Then there is no policy support, can not rise.",
+      "EndSec": 4717
+    },
+    {
+      "BeginSec": 4717,
+      "Text": "这这就一个调整删掉。",
+      "TransText": "This is an adjustment to delete.",
+      "EndSec": 4720
+    },
+    {
+      "BeginSec": 4720,
+      "Text": "超过一半的相。",
+      "TransText": "More than half of the phases.",
+      "EndSec": 4726
+    },
+    {
+      "BeginSec": 4726,
+      "Text": "三就是企业。",
+      "TransText": "The third is the enterprise.",
+      "EndSec": 4730
+    },
+    {
+      "BeginSec": 4730,
+      "Text": "会进一步阻碍。",
+      "TransText": "It will further hinder.",
+      "EndSec": 4739
+    },
+    {
+      "BeginSec": 4739,
+      "Text": "哦，不要基本就是，但是他比您提到一个精油组织。",
+      "TransText": "Oh,Don't basically be,But he mentioned an essential oil tissue more than you did.",
+      "EndSec": 4749
+    },
+    {
+      "BeginSec": 4749,
+      "Text": "那经过组织呢，其实就是经济合作与发展组织嗯他是有38个市场经济国家组成的这样的一个政府间的呃国际经济组织。",
+      "TransText": "The organization is actually the Organization for Economic Cooperation and Development. Well, it is an intergovernmental, uh, international economic organization composed of 38 market economy countries.",
+      "EndSec": 4761
+    },
+    {
+      "BeginSec": 4761,
+      "Text": "那么这个组织的目的呢，它只占了共同应对呃全球化带来的经济和社会，还有这个政府治理等方面的一个挑战。这就是呃经合组织。",
+      "TransText": "So what is the purpose of this organization?It only accounts for a common response to the economic and social challenges brought about by, uh, globalization, as well as the governance of this government. This is, uh, the OECD.",
+      "EndSec": 4774
+    },
+    {
+      "BeginSec": 4774,
+      "Text": "然后我们聊了运动中的社会影响，你跟我们说说这种旅游带给哥斯达黎加的呢哪一些影响。",
+      "TransText": "Then we talked about the social impact of the movement. Tell us about the impact of this kind of tourism on Costa Rica.",
+      "EndSec": 4776
+    },
+    {
+      "BeginSec": 4776,
+      "Text": "没事，你做。",
+      "TransText": "It's okay, you do it.",
+      "EndSec": 4781
+    },
+    {
+      "BeginSec": 4781,
+      "Text": "3。",
+      "TransText": "3.",
+      "EndSec": 4784
+    },
+    {
+      "BeginSec": 4784,
+      "Text": "作为。",
+      "TransText": "As.",
+      "EndSec": 4793
+    },
+    {
+      "BeginSec": 4793,
+      "Text": "他们将家里的价值主张聚焦20可持续的产品和一些公开。",
+      "TransText": "They focused their family's value proposition on 20 sustainable products and some publicity.",
+      "EndSec": 4797
+    },
+    {
+      "BeginSec": 4797,
+      "Text": "然后就是静一下吧。",
+      "TransText": "Then let's be quiet.",
+      "EndSec": 4808
+    },
+    {
+      "BeginSec": 4808,
+      "Text": "是的，一下就是这样，这两年十号溶液在们国家整体经济之十二。",
+      "TransText": "Yes, that's it for a moment. The solution on the 10th of the past two years is in the 12th of our country's overall economy.",
+      "EndSec": 4810
+    },
+    {
+      "BeginSec": 4810,
+      "Text": "哦。",
+      "TransText": "Oh.",
+      "EndSec": 4816
+    },
+    {
+      "BeginSec": 4816,
+      "Text": "这个有音乐在上班吗？是不是这次的比较？",
+      "TransText": "Does this have music at work? Is this the comparison?",
+      "EndSec": 4822
+    },
+    {
+      "BeginSec": 4822,
+      "Text": "哥哥在家。",
+      "TransText": "Brother's at home.",
+      "EndSec": 4823
+    },
+    {
+      "BeginSec": 4823,
+      "Text": "不同异议。",
+      "TransText": "Different objections.",
+      "EndSec": 4830
+    },
+    {
+      "BeginSec": 4830,
+      "Text": "您是社区周围有影响，他们有一些指标。",
+      "TransText": "You have influence around the community and they have some indicators.",
+      "EndSec": 4834
+    },
+    {
+      "BeginSec": 4834,
+      "Text": "获得7月份。",
+      "TransText": "Get 7 months.",
+      "EndSec": 4836
+    },
+    {
+      "BeginSec": 4836,
+      "Text": "我是血。",
+      "TransText": "I'm blood.",
+      "EndSec": 4839
+    },
+    {
+      "BeginSec": 4839,
+      "Text": "是哪些钱？",
+      "TransText": "What money is it?",
+      "EndSec": 4841
+    },
+    {
+      "BeginSec": 4841,
+      "Text": "获得这次审判。",
+      "TransText": "Get this trial.",
+      "EndSec": 4854
+    },
+    {
+      "BeginSec": 4854,
+      "Text": "啊，嗯非常好，就是这就是旅游中就是给我们具体的社会呢，就是每个国家可能会带来不同的一些影响。",
+      "TransText": "Ah,Well, very good,That is, tourism is the specific society for us, that is, each country may bring different impacts.",
+      "EndSec": 4859
+    },
+    {
+      "BeginSec": 4859,
+      "Text": "你跟大家说一说嘛，这个坦桑尼亚对。",
+      "TransText": "Tell everyone, this Tanzania is right.",
+      "EndSec": 4865
+    },
+    {
+      "BeginSec": 4865,
+      "Text": "不错。",
+      "TransText": "Not bad.",
+      "EndSec": 4870
+    },
+    {
+      "BeginSec": 4870,
+      "Text": "你在看好不好？",
+      "TransText": "Are you watching?",
+      "EndSec": 4875
+    },
+    {
+      "BeginSec": 4875,
+      "Text": "一个是不一样。",
+      "TransText": "One is different.",
+      "EndSec": 4898
+    },
+    {
+      "BeginSec": 4898,
+      "Text": "精密的一些观点。",
+      "TransText": "Some views of precision.",
+      "EndSec": 4904
+    },
+    {
+      "BeginSec": 4904,
+      "Text": "还有一些。",
+      "TransText": "And a few more.",
+      "EndSec": 4910
+    },
+    {
+      "BeginSec": 4910,
+      "Text": "国家的是自然公园，然后工资大概是。",
+      "TransText": "The country is a nature park, and then the salary is probably.",
+      "EndSec": 4924
+    },
+    {
+      "BeginSec": 4924,
+      "Text": "就是呃同时在就是就是就是清洗自然旅游业吧，是将旅游业和环保有效的结合起来。",
+      "TransText": "At the same time, it is the cleaning of natural tourism, which is an effective combination of tourism and environmental protection.",
+      "EndSec": 4931
+    },
+    {
+      "BeginSec": 4931,
+      "Text": "对呃坦桑尼亚呢第一个是姜柳叶和环境保护结合起来。",
+      "TransText": "The first one in Tanzania is a combination of ginger and willow leaves and environmental protection.",
+      "EndSec": 4938
+    },
+    {
+      "BeginSec": 4938,
+      "Text": "第二个方面呢就是卡塔尼亚的他的这个礼物发展雇佣了大量的创造了大量的就业岗位。",
+      "TransText": "The second aspect is that Catania's gift development has employed a large number of jobs.",
+      "EndSec": 4950
+    },
+    {
+      "BeginSec": 4950,
+      "Text": "别人说一下嗯，这个很多的导游人员呀，还有这个怎么了厨师，那么提高我们这个学生的这种就业率。你好了吗？",
+      "TransText": "Someone said, um,This is a lot of tour guides, and what's wrong with this chef?Then increase the employment rate of our students. How are you?",
+      "EndSec": 4958
+    },
+    {
+      "BeginSec": 4958,
+      "Text": "马来西亚麻雀们准备。",
+      "TransText": "Malaysian sparrows prepare.",
+      "EndSec": 4972
+    },
+    {
+      "BeginSec": 4972,
+      "Text": "这个就是说的什么哥们现在还需要组装了，但是因为他引用了有效带动公司离职的。",
+      "TransText": "What this means is that the elder brothers still need to assemble now, but because he cited the effective driving of the company to leave.",
+      "EndSec": 4975
+    },
+    {
+      "BeginSec": 4975,
+      "Text": "挺好的。",
+      "TransText": "It's pretty good.",
+      "EndSec": 4982
+    },
+    {
+      "BeginSec": 4982,
+      "Text": "但是这个是那如果是亏的天就回到哪里了呀？",
+      "TransText": "But this is, where will it go if it is a loss?",
+      "EndSec": 4991
+    },
+    {
+      "BeginSec": 4991,
+      "Text": "开始社区的创新创业社区。",
+      "TransText": "Start the community of innovation and entrepreneurship.",
+      "EndSec": 5000
+    },
+    {
+      "BeginSec": 5000,
+      "Text": "他听到这个顺序的这种发展创造了这对乌市熙南里创造了上了这个岗位。",
+      "TransText": "He heard that this development of this sequence created this pair of Urumqi Xinanli created this post.",
+      "EndSec": 5008
+    },
+    {
+      "BeginSec": 5008,
+      "Text": "还有就是说为当地的社区呢提高了他们的一个是呃生活的这种水平，对不对？生活的质量啊。",
+      "TransText": "And that is to say, for the local community, it has improved their level of life, right? The quality of life.",
+      "EndSec": 5015
+    },
+    {
+      "BeginSec": 5015,
+      "Text": "讲一下这个是。",
+      "TransText": "Tell me about this.",
+      "EndSec": 5018
+    },
+    {
+      "BeginSec": 5018,
+      "Text": "啊，意思。",
+      "TransText": "Ah, meaning.",
+      "EndSec": 5031
+    },
+    {
+      "BeginSec": 5031,
+      "Text": "是百分之。",
+      "TransText": "It's percent.",
+      "EndSec": 5036
+    },
+    {
+      "BeginSec": 5036,
+      "Text": "54个这个。",
+      "TransText": "54 of this.",
+      "EndSec": 5048
+    },
+    {
+      "BeginSec": 5048,
+      "Text": "手工业、农业企业，小型餐饮。老爷看云。",
+      "TransText": "Handicraft,Agricultural enterprises, small catering. The master looked at the clouds.",
+      "EndSec": 5058
+    },
+    {
+      "BeginSec": 5058,
+      "Text": "天猫精灵唱一个。",
+      "TransText": "The tmall genie sings one.",
+      "EndSec": 5069
+    },
+    {
+      "BeginSec": 5069,
+      "Text": "对，从这些方面呢就是促进我们目的地的这种嗯发展。所以呢就是说。",
+      "TransText": "Right,From these aspects, it is to promote this kind of development of our destination. So that is to say.",
+      "EndSec": 5078
+    },
+    {
+      "BeginSec": 5078,
+      "Text": "今天这个状态也不好，生病了，那你有没有吃药啊？",
+      "TransText": "This state is not good today either.Sick, did you take any medicine?",
+      "EndSec": 5088
+    },
+    {
+      "BeginSec": 5088,
+      "Text": "那多喝点水，多喝热水，没有感冒，一定要多喝热水，这个是有利于病毒的这个呃排出。",
+      "TransText": "Then drink more water,Drink more hot water,If you don't have a cold, you must drink more hot water. This is good for the virus.",
+      "EndSec": 5101
+    },
+    {
+      "BeginSec": 5101,
+      "Text": "看来我们这个嗯所以今天这个我们就是同学，那这个更值得啊我们这个敬佩啊。",
+      "TransText": "It seems that we are classmates today, and this one is more worthy of our admiration.",
+      "EndSec": 5109
+    },
+    {
+      "BeginSec": 5109,
+      "Text": "冒就是生病，我们这个大中华还要来坚持来上课，就是非常的值得的这个表扬。",
+      "TransText": "Risk is illness,We, the Greater China, still have to insist on coming to class, which is very worthy of this praise.",
+      "EndSec": 5121
+    },
+    {
+      "BeginSec": 5121,
+      "Text": "就是刚才呢我们从这个5个方面呢来对这个呃对大家那个因为天气变冷了，尤其是下周我们这个天气开始降温了，大家一定要注意保暖，不要冻着。",
+      "TransText": "Just now, we came from this five aspects to this, uh, to everyone, because the weather is getting cold,Especially next week, our weather will begin to cool down. Everyone must pay attention to keeping warm and not freezing.",
+      "EndSec": 5131
+    },
+    {
+      "BeginSec": 5131,
+      "Text": "那我们刚才看到呢这个旅游呢通过从5个方面呢对社会呢产生影响。",
+      "TransText": "What we have just seen is that this tourism has an impact on society in five ways.",
+      "EndSec": 5134
+    },
+    {
+      "BeginSec": 5134,
+      "Text": "第一个呢就是促进那个都有多样性和包容性的增长。",
+      "TransText": "The first is to promote growth that is both diverse and inclusive.",
+      "EndSec": 5140
+    },
+    {
+      "BeginSec": 5140,
+      "Text": "第二个呢，就是说他是我们社区呃发展的一个重要的推动者。",
+      "TransText": "And the second one,That is to say, he is an important promoter of the development of our community.",
+      "EndSec": 5146
+    },
+    {
+      "BeginSec": 5146,
+      "Text": "第三个方面呢，那么他也是我们创造一个新的就业机会的一个重要的产业。",
+      "TransText": "The third aspect,Then he is also an important industry for us to create a new job opportunity.",
+      "EndSec": 5149
+    },
+    {
+      "BeginSec": 5149,
+      "Text": "第四个方面呢，他也能产生一个重要的这种乘数效应。",
+      "TransText": "In the fourth aspect, he can also produce an important multiplier effect.",
+      "EndSec": 5166
+    },
+    {
+      "BeginSec": 5166,
+      "Text": "那我们知道啊柳中的这种呃没从全球来看呢，就是我们看到那没有两每四个就是说创造了一个新的就业岗位中呢，没有就是说每四个中就有一个是旅游业创造的。",
+      "TransText": "Well, we know that Liu's, uh, not from a global perspective,That is, we can see that there are no two or four jobs created, that is to say, one of every four jobs is created by tourism.",
+      "EndSec": 5172
+    },
+    {
+      "BeginSec": 5172,
+      "Text": "那么同时呢，旅游呢也是我们创新创业的一个重要的催化剂。",
+      "TransText": "At the same time, tourism is also an important catalyst for our innovation and entrepreneurship.",
+      "EndSec": 5177
+    },
+    {
+      "BeginSec": 5177,
+      "Text": "所以各位同学呢就是说呃在我们旅游行业中，旅游产业中是大有作为的。",
+      "TransText": "So everyone, that is to say, uh, in our tourism industry, there is a lot to be made in the tourism industry.",
+      "EndSec": 5183
+    },
+    {
+      "BeginSec": 5183,
+      "Text": "那我们看到了就是说这个理由有非常重要的这样这样的一个作用。",
+      "TransText": "Then we have seen that this reason has a very important effect.",
+      "EndSec": 5197
+    },
+    {
+      "BeginSec": 5197,
+      "Text": "那其实我们刚才讲到了，这就是我们这个看到了分析的这个报告，也是就是通过更直观的，还有通过一些数据呢来去深入的了解带给我们这个社会还有经济的一些影响。",
+      "TransText": "Well, actually, as we just talked about,This is our report that saw the analysis.It is also through more intuitive, and through some data to in-depth understanding of our society and some economic impact.",
+      "EndSec": 5201
+    },
+    {
+      "BeginSec": 5201,
+      "Text": "那这就是呃我们说现在旅游政策的开端。",
+      "TransText": "That's the beginning of, uh, we're talking about tourism policy now.",
+      "EndSec": 5212
+    },
+    {
+      "BeginSec": 5212,
+      "Text": "我们要讲一些国际旅游组织，那么这就是国际旅游组织呢，他通过一发布这样的一些报告，那么通过更加直观的非常具象化的数字。",
+      "TransText": "We're going to talk about some international tourism organizations.So this is the International Tourism Organization,As soon as he publishes some of these reports, he passes more intuitive and very figurative numbers.",
+      "EndSec": 5223
+    },
+    {
+      "BeginSec": 5223,
+      "Text": "那么告诉政府，告诉我们的社会，那么通过他们的这个报告的影响力呢，去推动呃政府的一个决策的制定啊，政策的制定啊，还有产业的发展。",
+      "TransText": "Then tell the government,Tell our society,What about the influence of their report?To push for a decision-making by the government,The formulation of policies and the development of industries.",
+      "EndSec": 5226
+    },
+    {
+      "BeginSec": 5226,
+      "Text": "这就是为什么说我们寻找现在领域的开端。",
+      "TransText": "This is why we are looking for the beginning of the field now.",
+      "EndSec": 5228
+    },
+    {
+      "BeginSec": 5228,
+      "Text": "后来先去介绍我们一些国际旅游组织。",
+      "TransText": "Later, I went to introduce some of our international tourism organizations.",
+      "EndSec": 5234
+    },
+    {
+      "BeginSec": 5234,
+      "Text": "那同时呢我要给大家留个小作业了。",
+      "TransText": "At the same time, I'm going to leave a little homework for everyone.",
+      "EndSec": 5249
+    },
+    {
+      "BeginSec": 5249,
+      "Text": "就是我们全班嘛应该就是只有18个人吧，全班18个人就是分成6组，就是每组也就是三个人左右，3到4应该是3个人。",
+      "TransText": "There should be only 18 people in our class.The 18 people in the class are divided into six groups.That is, each group is about three people, 3 to 4 should be three people.",
+      "EndSec": 5271
+    },
+    {
+      "BeginSec": 5271,
+      "Text": "然后每组呢选一个旅组织，围绕该组织的一个发展历程以及章程啊嗯创办理念，还有这个组织的作用啊，特色活动会议啊，还有该组织的出版物或者已有报告产生的影响，然后以及在政策法规，郭知行业标准行业规范方面还有哪一些作用，你要给大家讲一讲。",
+      "TransText": "Then each group chooses a brigade organization,Around a development history of the organization and the founding philosophy of the charter,And the role of this organization,Special activity meeting,There is also the impact of the organization's publications or reports,Then, as well as in policies and regulations,What other functions does Guo know in terms of industry standards and industry norms? You should tell us about them.",
+      "EndSec": 5278
+    },
+    {
+      "BeginSec": 5278,
+      "Text": "然后每个小组汇报的时间呢是20到25分钟，不能少于20分钟，不能多约25分钟。",
+      "TransText": "Then the reporting time for each group is 20 to 25 minutes.Not less than 20 minutes, not about 25 minutes more.",
+      "EndSec": 5280
+    },
+    {
+      "BeginSec": 5280,
+      "Text": "所以要今严格的控制时间。",
+      "TransText": "So we need to strictly control the time today.",
+      "EndSec": 5291
+    },
+    {
+      "BeginSec": 5291,
+      "Text": "第二个呢，其他各主要针对其他组的汇报，提出3到4个问题，然后必须是经过深入思考的问题。",
+      "TransText": "And the second one,Other reports mainly for other groups,Put forward 3 to 4 questions, and then must be questions after in-depth thinking.",
+      "EndSec": 5296
+    },
+    {
+      "BeginSec": 5296,
+      "Text": "然后每个组呢还有选一个代表对其他主要汇报内容呢进行点评。",
+      "TransText": "Then each group has a representative to comment on other major reports.",
+      "EndSec": 5297
+    },
+    {
+      "BeginSec": 5297,
+      "Text": "要提出具体的点评意见。",
+      "TransText": "Specific comments should be made.",
+      "EndSec": 5309
+    },
+    {
+      "BeginSec": 5309,
+      "Text": "然后每个小组呢要选一个组长，然后小组长楼做好分工，然后要把需要把详细的名单交给我。",
+      "TransText": "Then each group has to choose a team leader,Then the team leader building will do a good job of division of labor, and then give me the detailed list that needs to be given.",
+      "EndSec": 5319
+    },
+    {
+      "BeginSec": 5319,
+      "Text": "然后我们的课代表回回头，会后呢，就是我们课后呢就要对这个几个呢进行分组组织大家分组哈，每个小组选一个名单，然后弄一个做一个名单。",
+      "TransText": "Then our class representatives looked back.After the meeting,It's just that we're going to group these in groups after class,Each group chooses a list and then makes a list.",
+      "EndSec": 5330
+    },
+    {
+      "BeginSec": 5330,
+      "Text": "还有就是说至于你们先分组非法组织后，我们这个这是几个研讨，这几个那个组织的都已经变号了，你们抽签来决定谁做哪一个。",
+      "TransText": "And that is to say, as for you to group illegal organizations first,This is a few discussions.These organizations have all changed their numbers. You draw lots to decide who will do which one.",
+      "EndSec": 5333
+    },
+    {
+      "BeginSec": 5333,
+      "Text": "比如说你们是傻子吗？",
+      "TransText": "For example, are you fools?",
+      "EndSec": 5338
+    },
+    {
+      "BeginSec": 5338,
+      "Text": "你知道一优势，你又选择第一个，你知道你就选择第五个，你就是第五个。",
+      "TransText": "You know an advantage,You choose the first one again, you know you choose the fifth one, and you are the fifth one.",
+      "EndSec": 5345
+    },
+    {
+      "BeginSec": 5345,
+      "Text": "你们就抽签来决定谁坐哪一个选题，哪一个组织。",
+      "TransText": "You will draw lots to decide who will choose which topic and which organization.",
+      "EndSec": 5356
+    },
+    {
+      "BeginSec": 5356,
+      "Text": "然后呢，就是说你们现在扣看一看，然后如果有什么问题呢，然后我们可以随时交流，或者是你们觉得这个有困难。",
+      "TransText": "And then what,That is to say, if you take a look now,Then if there is any problem,Then we can communicate at any time, or you think this is difficult.",
+      "EndSec": 5363
+    },
+    {
+      "BeginSec": 5363,
+      "Text": "那我们下节课我们可以来啊聚集堂一草讨论一下，学习一下怎么样，我就教大家怎么样做这样一个作业。",
+      "TransText": "Then we can come and gather for a discussion in the next class.Learn how to do such an assignment.",
+      "EndSec": 5380
+    },
+    {
+      "BeginSec": 5380,
+      "Text": "你们这呃，今天的课课程起诉之后，先回去回去分组，然后选择确定好每个小组汇报的内容，然后先去做一些准备，然后准备好之后，然后说你们先去看一些材料，我查找一些资料，遇到什么困难来。",
+      "TransText": "You guys, uh,After today's lesson,Go back to the group first,Then choose to determine the content of each group's report,Then I will make some preparations first.And then when you're ready,Then he said that you should look at some materials first. I will look up some materials and encounter any difficulties.",
+      "EndSec": 5387
+    },
+    {
+      "BeginSec": 5387,
+      "Text": "然后我说或者是不知道怎么做，那我们再去具体的沟通好不好，大家有没有什么问题啊？",
+      "TransText": "Then I said or didn't know how to do it,Then let's go to specific communication, ok, do you have any questions?",
+      "EndSec": 5397
+    },
+    {
+      "BeginSec": 5397,
+      "Text": "有没有问题没有问题是吧，没有问题，我们就这样布置下去了。",
+      "TransText": "Is there a problem? No problem, right?No problem,We just set it up.",
+      "EndSec": 5403
+    },
+    {
+      "BeginSec": 5403,
+      "Text": "我们的汇报呢，我们是嗯还有一个事情呢，我们12月10号是不是要考46级啊？",
+      "TransText": "Where is our report?We are, uh, one more thing,Are we going to take grade 46 on December 10?",
+      "EndSec": 5418
+    },
+    {
+      "BeginSec": 5418,
+      "Text": "12月10号呃，我们本身就有限上课，12月10号那天给大家安排线上课，你们看是不是可以就是不影响你们考四六级，有更多时间去准备这个40级你们就安心的考46级。",
+      "TransText": "On the 10th of December, uh,We have limited classes ourselves.On the 10th of December, we will arrange a class for everyone. Do you think it is possible to take the CET-4 and CET-6 without affecting you? If you have more time to prepare for this CET-40, you will be at ease in taking the CET-46.",
+      "EndSec": 5431
+    },
+    {
+      "BeginSec": 5431,
+      "Text": "大家是不是看怎么样这样的安排，就是我们本身就是线上课吧，那一天就是你们就安心的去考考四六级就是。",
+      "TransText": "Do you think about this arrangement, that is, we are taking classes on the line. On that day, you will be at ease to take the CET-4 and CET-6.",
+      "EndSec": 5442
+    },
+    {
+      "BeginSec": 5442,
+      "Text": "呃，我们就调一下那一天应该是线下，我给大家调一调一下。",
+      "TransText": "Uh,Let's adjust the day. It should be offline. I'll adjust it for everyone.",
+      "EndSec": 5446
+    },
+    {
+      "BeginSec": 5446,
+      "Text": "那那次课就调成线上，然后我把其他的课的调呈现一下。",
+      "TransText": "That class will be adjusted online, and then I will show the adjustment of other classes.",
+      "EndSec": 5449
+    },
+    {
+      "BeginSec": 5449,
+      "Text": "好不好？",
+      "TransText": "Okay?",
+      "EndSec": 5453
+    },
+    {
+      "BeginSec": 5453,
+      "Text": "那直接下线啊。",
+      "TransText": "Then go offline.",
+      "EndSec": 5456
+    },
+    {
+      "BeginSec": 5456,
+      "Text": "对，就是呃，12月10号不是你们要考考试6级吗？",
+      "TransText": "Right,Is it, uh, December 10, isn't it that you are going to take the 6-level exam?",
+      "EndSec": 5463
+    },
+    {
+      "BeginSec": 5463,
+      "Text": "我本来是线下课，现在我给大家给你们就是调成线上，我们本来是有两次特征线上了，对不对？",
+      "TransText": "I was originally dismissed from class, but now I'll give it to you. I'll adjust it to online.We had two feature lines, didn't we?",
+      "EndSec": 5473
+    },
+    {
+      "BeginSec": 5473,
+      "Text": "这个我要是沟通一下可不可以啊，你们说可以可以。",
+      "TransText": "If I can communicate this, can I? You said yes.",
+      "EndSec": 5476
+    },
+    {
+      "BeginSec": 5476,
+      "Text": "好，那我先去问一下，就是我们的教务老师好不好？",
+      "TransText": "Okay, well,Then I'll ask first, is our educational administration teacher ok?",
+      "EndSec": 5484
+    },
+    {
+      "BeginSec": 5484,
+      "Text": "你可以的，我现在就和肖老师沟通一下哈，因为这个调课都需要去申请，是吗？",
+      "TransText": "You can,I'll talk to Mr. Xiao now, because I need to apply for this transfer.Is it?",
+      "EndSec": 5506
+    },
+    {
+      "BeginSec": 5506,
+      "Text": "我看看，然后就是呃那我就说12月10号这一天这一次的课呢，呃就是大家会在线在线学习，我到时候会提前把我们的这个在线学习的课程的这个视频呢发到网上，还有就是课程学习的讨论题呢，也会一同的发到就是说呃网上就是我们的课程平台。",
+      "TransText": "Let me see,Then, uh, then I'll say this class on December 10,Well, everyone will learn online,I will send this video of our online learning course to the Internet in advance.There are also discussion questions for course learning, which will also be sent together, that is, the Internet is our course platform.",
+      "EndSec": 5511
+    },
+    {
+      "BeginSec": 5511,
+      "Text": "大家去具体的就是课后学习好不好，这个会吗？",
+      "TransText": "The specific thing for everyone is to study after class, is this meeting?",
+      "EndSec": 5521
+    },
+    {
+      "BeginSec": 5521,
+      "Text": "是到十十呃，12月10号的，再下一周，也就是10号的时候，周六在家期间嘛，10 16号17号。",
+      "TransText": "It's ten, uh,On December 10,Next week,That is, on the 10th, when I was at home on Saturday, on the 17th of the 10th, 16th.",
+      "EndSec": 5529
+    },
+    {
+      "BeginSec": 5529,
+      "Text": "是这样的吧，那就是12月17号汇报。",
+      "TransText": "Well, that's the report on December 17.",
+      "EndSec": 5534
+    },
+    {
+      "BeginSec": 5534,
+      "Text": "这个时间很充足，对吧？",
+      "TransText": "This is plenty of time, isn't it?",
+      "EndSec": 5535
+    },
+    {
+      "BeginSec": 5535,
+      "Text": "也不耽误我们考试6级。",
+      "TransText": "Nor will it delay our examination level 6.",
+      "EndSec": 5560
+    },
+    {
+      "BeginSec": 5560,
+      "Text": "那我们就是说呃12月10号我就是会给大家那一天那一次的课调成线上我会提前把这个课程的这个视频放到呃课件尔，就是说上传到网上，大家就刻就是还要在线的讨论问题全都上传到就是我们的呃学的成员，大家就是线上学习，好好吧好。",
+      "TransText": "Then we mean, uh, on the 10th of December, I will transfer the lesson of that day to online. I will put this video of this lesson in advance, uh, courseware,That is to say, upload it to the Internet.Everyone just needs to discuss online. All the questions are uploaded to our members, and everyone is learning online. Okay, okay.",
+      "EndSec": 5566
+    },
+    {
+      "BeginSec": 5566,
+      "Text": "就是大家就安心那个考四六级嗯。",
+      "TransText": "That is, everyone is relieved to take the CET-4 and CET-6.",
+      "EndSec": 5575
+    },
+    {
+      "BeginSec": 5575,
+      "Text": "不考试，他会交一个小的，呃，大约是三四千字还小的一个是我觉得。",
+      "TransText": "No exams,He will hand in a small, uh, about 3000 or 4000 words as small as I think.",
+      "EndSec": 5579
+    },
+    {
+      "BeginSec": 5579,
+      "Text": "客都是就是一个。",
+      "TransText": "All the guests are just one.",
+      "EndSec": 5587
+    },
+    {
+      "BeginSec": 5587,
+      "Text": "这些人少了，就是我们这个是考察课。",
+      "TransText": "There are fewer of these people. This is our investigation class.",
+      "EndSec": 5594
+    },
+    {
+      "BeginSec": 5594,
+      "Text": "所以你们平时的那个汇报很重要，这是个主要的作业。",
+      "TransText": "Therefore, your usual report is very important. This is a major assignment.",
+      "EndSec": 5603
+    },
+    {
+      "BeginSec": 5603,
+      "Text": "我们我那个啥之前我已经最开始第一节课我就说了，咱们平时的成绩是占到60%，对吧？",
+      "TransText": "Before we, I had already started the first class and I said it.Our usual results are 60% percent.Right?",
+      "EndSec": 5606
+    },
+    {
+      "BeginSec": 5606,
+      "Text": "所以为什么说我一定要要求这个时长要求是非空。",
+      "TransText": "So why do I have to ask for this duration to be non-empty?",
+      "EndSec": 5613
+    },
+    {
+      "BeginSec": 5613,
+      "Text": "所以大家平时一定要吃，一定要好好做这个汇报，而且留的时间很充足。",
+      "TransText": "So everyone must eat it at ordinary times.We must do this report well and have plenty of time.",
+      "EndSec": 5621
+    },
+    {
+      "BeginSec": 5621,
+      "Text": "所以那我们就定下来12月17号做这个汇报。",
+      "TransText": "So then we will make this report on December 17.",
+      "EndSec": 5624
+    },
+    {
+      "BeginSec": 5624,
+      "Text": "因为我们的课程是12月30号结束，对吧？",
+      "TransText": "Because our course ends on December 30, right?",
+      "EndSec": 5635
+    },
+    {
+      "BeginSec": 5635,
+      "Text": "所以我们是12月17号这个汇报，然后呢，12月10号就是会给大家组织这个在线上上课，不影响你们考试，所以就不用担心。",
+      "TransText": "So we are reporting on December 17,And then what,On December 10, this online class will be organized for everyone.It doesn't affect your exams, so don't worry.",
+      "EndSec": 5643
+    },
+    {
+      "BeginSec": 5643,
+      "Text": "那我们就这样说，其他同学有没有什么异议或者问题的都没有了，是吧？",
+      "TransText": "So let's just say,Do other students have any objections or questions?Right?",
+      "EndSec": 5646
+    },
+    {
+      "BeginSec": 5646,
+      "Text": "没有，我们就是12月10号，就是呃，是在线客。",
+      "TransText": "No,We are on the 10th of December, that is, uh, online.",
+      "EndSec": 5669
+    },
+    {
+      "BeginSec": 5669,
+      "Text": "嗯，我来继续设计一下，不是你们有一个小组作业了，就是这个汇报，但是每个人还要加一个人作业，这个是小组作业，个人作业是是一起的，不能够都只做小组的作业，所有一个个人的作业。",
+      "TransText": "Well,Let me continue to design it.Not that you have a group assignment,This is the report.But everyone has to add one more homework.This is a group assignment.Personal homework is together.Can't all do group homework, all individual homework.",
+      "EndSec": 5672
+    },
+    {
+      "BeginSec": 5672,
+      "Text": "但是你们最主要成就是在平时，对吧？",
+      "TransText": "But your main achievement is in normal times, right?",
+      "EndSec": 5680
+    },
+    {
+      "BeginSec": 5680,
+      "Text": "我第一节课就已经强调了那个分数的构成了，所以大家不用担心，好好准备。",
+      "TransText": "I have already emphasized the composition of the score in the first class, so don't worry, prepare well.",
+      "EndSec": 5705
+    },
+    {
+      "BeginSec": 5705,
+      "Text": "那就是除此之外呢，就是我们的教授呢，就是我们请的这个专家呢，就是教授还给我们讲了这样的一个除了与旅游业相关的这个直接相关的这个世界旅游组织或者是呃世界琉璃理事会呢，我们还有一个其他的国际组织。",
+      "TransText": "That's what else,Is it our professor?This is the expert we hired.The professor also told us about such a world tourism organization or, uh, the World Coloured Glass Council, which is directly related to tourism. We also have another international organization.",
+      "EndSec": 5711
+    },
+    {
+      "BeginSec": 5711,
+      "Text": "就是呃因为大家这个上课，就是说天津教授讲可能会有一些困难，对吧？",
+      "TransText": "It's, uh, because of this class,That is to say, Professor Tianjin said there may be some difficulties,Right?",
+      "EndSec": 5719
+    },
+    {
+      "BeginSec": 5719,
+      "Text": "原原困难呃，我我打算这一次这样讲，你们看行不行，就是我先给大家讲一下教授所讲的一些主要的内容。",
+      "TransText": "The original difficulties, uh,I'm going to say this this time,Do you think it's okay? I'll tell you some of the main things the professor said first.",
+      "EndSec": 5721
+    },
+    {
+      "BeginSec": 5721,
+      "Text": "这个也是介绍国际组织的最好。",
+      "TransText": "This is also the best way to introduce international organizations.",
+      "EndSec": 5727
+    },
+    {
+      "BeginSec": 5727,
+      "Text": "我们这个结果我刚才讲的，我们来一起去学习其他的一些就是呃柳州的国际组织。",
+      "TransText": "As I have just talked about our results, let's learn some of the other international organizations in Liuzhou.",
+      "EndSec": 5731
+    },
+    {
+      "BeginSec": 5731,
+      "Text": "我先给大家讲一讲，就是说教授讲的一些主要内容。",
+      "TransText": "Let me tell you first, that is to say, some of the main contents of the professor.",
+      "EndSec": 5763
+    }
+  ]
+}

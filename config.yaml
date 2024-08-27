@@ -1,0 +1,25 @@
+#base_data:
+#  ip: "10.160.195.50"
+#  port: "50"
+#  inflect:
+#    ip: "173.0.85.5"
+#    port: "5000"
+base_data:
+  teacher:
+    ip: "173.0.61.2"
+    port: "5000"
+    inflect:
+      ip: "10.160.195.50"
+      port: "50029"
+  student:
+    ip: "173.0.61.2"
+    port: "5001"
+    inflect:
+      ip: "10.160.195.50"
+      port: "50080"
+  other:
+    ip: "173.0.61.2"
+    port: "5002"
+    inflect:
+      ip: "10.160.195.50"
+      port: "50025"

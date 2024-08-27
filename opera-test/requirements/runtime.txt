@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pycocotools
+six
+terminaltables
+shapely
+tqdm==4.28.1
